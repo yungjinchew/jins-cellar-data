@@ -28,7 +28,7 @@ export function buildOutputs(cellar, consumed, critics, refresh){
   C.sort((a,b)=>(order[a.drink_status]??3)-(order[b.drink_status]??3) || String(a.producer||a.wine).localeCompare(String(b.producer||b.wine)));
   const json = { generated_at:new Date().toISOString(), source:"CellarTracker via Supabase", refresh_ran_at: refresh?refresh.ran_at:null,
     summary:{bottles,total_value_sgd:Math.round(value),reds,whites,sparkling:spark},
-    cellar: C.map(w=>({iwine:w.iwine,vintage:w.is_nv?"NV":w.vintage,wine:w.wine,producer:w.producer,color:w.color,category:w.category,varietal:w.varietal,region:w.region,country:w.country,quantity:w.quantity,value_sgd:w.value,drink_from:w.begin_consume,drink_to:w.end_consume,status:w.drink_status,my_rating_10:w.myRating,community_score_100:w.cscore,critics:w.critic})),
+    cellar: C.map(w=>({iwine:w.iwine,vintage:w.is_nv?"NV":w.vintage,wine:w.wine,producer:w.producer,color:w.color,category:w.category,varietal:w.varietal,region:w.region,country:w.country,quantity:w.quantity,value_sgd:w.value,drink_from:w.begin_consume,drink_to:w.end_consume,status:w.drink_status,my_rating_10:w.myRating,community_score_100:(w.cscore!=null?Math.round(w.cscore*10)/10:null),critics:w.critic})),
     consumed:(consumed||[]).map(h=>({wine:h.wine,vintage:h.is_nv?"NV":h.vintage,color:h.color,varietal:h.varietal,date:h.consume_date,my_rating_10:h.rating,rated:h.is_rated})) };
   let md = `# Jin's Wine Cellar — snapshot ${date}\n\n`;
   md += `_Auto-exported from CellarTracker via Supabase, refreshed weekly. ${bottles} bottles, ${fmt(value)} total (${reds} red, ${whites} white, ${spark} sparkling)._\n\n`;
@@ -36,7 +36,7 @@ export function buildOutputs(cellar, consumed, critics, refresh){
   md += `## Current cellar (${bottles} bottles)\n\n`;
   md += `| Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |\n|---|---|---|---|---|---|---|---|---|---|---|\n`;
   C.forEach(w=>{ const win=(w.begin_consume&&w.end_consume)?`${w.begin_consume}-${w.end_consume}`:"";
-    md += `| ${w.vint} | ${w.wine} | ${w.producer||""} | ${w.color||""} | ${w.varietal||""} | ${w.region||w.country||""} | ${win} | ${STATUS[w.drink_status]||""} | ${w.value?fmt(w.value):""} | ${w.myRating!=null?w.myRating:""} | ${w.cscore!=null?w.cscore:""}${w.critic?(" "+critLabel(w.critic)):""} |\n`; });
+    md += `| ${w.vint} | ${w.wine} | ${w.producer||""} | ${w.color||""} | ${w.varietal||""} | ${w.region||w.country||""} | ${win} | ${STATUS[w.drink_status]||""} | ${w.value?fmt(w.value):""} | ${w.myRating!=null?w.myRating:""} | ${w.cscore!=null?Math.round(w.cscore*10)/10:""}${w.critic?(" "+critLabel(w.critic)):""} |\n`; });
   const soon = C.filter(w=>w.drink_status==="past-peak"||(w.drink_status==="drink-now"&&w.end_consume&&w.end_consume<=new Date().getFullYear()+1)).sort((a,b)=>(a.end_consume||9999)-(b.end_consume||9999));
   if(soon.length){ md += `\n## Drink soon\n\n`; soon.forEach(w=>{ md += `- ${w.vint} ${w.wine} (${w.producer||""}) — ${w.drink_status==="past-peak"?"past peak, drink up":"window closes "+w.end_consume}\n`; }); }
   const rated=(consumed||[]).filter(h=>h.is_rated&&h.rating!=null).sort((a,b)=>(b.rating||0)-(a.rating||0)).slice(0,20);
