@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T07:13:39.063Z",
+  "generated_at": "2026-06-19T07:20:39.582Z",
   "source": "CellarTracker via Supabase",
   "refresh_ran_at": "2026-06-18T23:32:23.427+00:00",
   "summary": {
@@ -26,7 +26,7 @@
       "drink_to": 2033,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 92.1935483870968,
+      "community_score_100": 92.2,
       "critics": {}
     },
     {
@@ -45,7 +45,7 @@
       "drink_to": 2035,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 92.2903225806452,
+      "community_score_100": 92.3,
       "critics": {}
     },
     {
@@ -64,7 +64,7 @@
       "drink_to": 2027,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 92.2321981424149,
+      "community_score_100": 92.2,
       "critics": {}
     },
     {
@@ -83,7 +83,7 @@
       "drink_to": 2027,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 92.2321981424149,
+      "community_score_100": 92.2,
       "critics": {}
     },
     {
@@ -121,7 +121,7 @@
       "drink_to": 2031,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 93.7692307692308,
+      "community_score_100": 93.8,
       "critics": {}
     },
     {
@@ -140,7 +140,7 @@
       "drink_to": 2032,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 91.3559322033898,
+      "community_score_100": 91.4,
       "critics": {}
     },
     {
@@ -159,7 +159,7 @@
       "drink_to": 2038,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 92.2222222222222,
+      "community_score_100": 92.2,
       "critics": {}
     },
     {
@@ -178,7 +178,7 @@
       "drink_to": 2030,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 92.3333333333333,
+      "community_score_100": 92.3,
       "critics": {}
     },
     {
@@ -197,7 +197,7 @@
       "drink_to": 2038,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 92.2068965517241,
+      "community_score_100": 92.2,
       "critics": {}
     },
     {
@@ -235,7 +235,7 @@
       "drink_to": 2037,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 91.9222222222222,
+      "community_score_100": 91.9,
       "critics": {
         "JG": "94"
       }
@@ -256,7 +256,7 @@
       "drink_to": 2036,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 92.5161290322581,
+      "community_score_100": 92.5,
       "critics": {}
     },
     {
@@ -275,7 +275,7 @@
       "drink_to": 2030,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 90.4130434782609,
+      "community_score_100": 90.4,
       "critics": {}
     },
     {
@@ -313,7 +313,7 @@
       "drink_to": 2039,
       "status": "hold",
       "my_rating_10": null,
-      "community_score_100": 92.2941176470588,
+      "community_score_100": 92.3,
       "critics": {}
     },
     {
@@ -370,7 +370,7 @@
       "drink_to": 2021,
       "status": "past-peak",
       "my_rating_10": null,
-      "community_score_100": 90.1117125984252,
+      "community_score_100": 90.1,
       "critics": {
         "CW": "90-92",
         "JG": "92"
@@ -392,7 +392,7 @@
       "drink_to": 2025,
       "status": "past-peak",
       "my_rating_10": null,
-      "community_score_100": 90.6171875,
+      "community_score_100": 90.6,
       "critics": {
         "CW": "87-89",
         "JG": "93+"

@@ -8,26 +8,26 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2023 | Alheit Vineyards Cartology Bushvines | Alheit Vineyards | White | Chenin Blanc | Western Cape | 2026-2033 | Drink now | S$61 |  | 92.1935483870968  |
-| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$234 |  | 92.2903225806452  |
-| 2004 | Château Léoville Barton | Château Léoville Barton | Red | Red Bordeaux Blend | Bordeaux | 2013-2027 | Drink now | S$157 |  | 92.2321981424149  |
-| 2004 | Château Léoville Barton | Château Léoville Barton | Red | Red Bordeaux Blend | Bordeaux | 2013-2027 | Drink now | S$46 |  | 92.2321981424149  |
+| 2023 | Alheit Vineyards Cartology Bushvines | Alheit Vineyards | White | Chenin Blanc | Western Cape | 2026-2033 | Drink now | S$61 |  | 92.2  |
+| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$234 |  | 92.3  |
+| 2004 | Château Léoville Barton | Château Léoville Barton | Red | Red Bordeaux Blend | Bordeaux | 2013-2027 | Drink now | S$157 |  | 92.2  |
+| 2004 | Château Léoville Barton | Château Léoville Barton | Red | Red Bordeaux Blend | Bordeaux | 2013-2027 | Drink now | S$46 |  | 92.2  |
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
-| 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$173 |  | 93.7692307692308  |
-| 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$70 |  | 91.3559322033898  |
-| 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$102 |  | 92.2222222222222  |
-| 2022 | El Enemigo Sémillon | El Enemigo | White | Sémillon | Mendoza | 2025-2030 | Drink now | S$33 |  | 92.3333333333333  |
-| 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2038 | Drink now | S$66 |  | 92.2068965517241  |
+| 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$173 |  | 93.8  |
+| 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$70 |  | 91.4  |
+| 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$102 |  | 92.2  |
+| 2022 | El Enemigo Sémillon | El Enemigo | White | Sémillon | Mendoza | 2025-2030 | Drink now | S$33 |  | 92.3  |
+| 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2038 | Drink now | S$66 |  | 92.2  |
 | 2021 | Jean-Marie Fourrier Bourgogne | Jean-Marie Fourrier | Red | Pinot Noir | Burgundy | 2025-2031 | Drink now | S$80 |  | 90  |
-| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2026-2037 | Drink now | S$52 |  | 91.9222222222222 JG 94 |
-| 2021 | Leeuwin Estate Chardonnay Art Series | Leeuwin Estate | White | Chardonnay | Western Australia | 2026-2036 | Drink now | S$117 |  | 92.5161290322581  |
-| 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$53 |  | 90.4130434782609  |
+| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2026-2037 | Drink now | S$52 |  | 91.9 JG 94 |
+| 2021 | Leeuwin Estate Chardonnay Art Series | Leeuwin Estate | White | Chardonnay | Western Australia | 2026-2036 | Drink now | S$117 |  | 92.5  |
+| 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$53 |  | 90.4  |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$42 |  |   |
-| 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$66 |  | 92.2941176470588  |
+| 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$66 |  | 92.3  |
 | 2020 | Negretti Barolo | Negretti | Red | Nebbiolo | Piedmont | 2027-2038 | Hold | S$56 |  | 88  |
 | 2021 | Paul Jaboulet Aîné Côte-Rôtie Les Jumelles | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2030-2041 | Hold | S$98 |  |   |
-| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2017-2021 | Past peak | S$79 |  | 90.1117125984252 JG 92 |
-| NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2019-2025 | Past peak | S$97 |  | 90.6171875 JG 93+ |
+| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2017-2021 | Past peak | S$79 |  | 90.1 JG 92 |
+| NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2019-2025 | Past peak | S$97 |  | 90.6 JG 93+ |
 
 ## Drink soon
 
