@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-29T16:40:49.281Z",
+  "generated_at": "2026-07-06T14:44:48.810Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-06-29T02:00:00.992+00:00",
+  "refresh_ran_at": "2026-07-06T02:00:00.921+00:00",
   "summary": {
     "bottles": 19,
-    "total_value_sgd": 1686,
+    "total_value_sgd": 1679,
     "reds": 15,
     "whites": 2,
     "sparkling": 2
@@ -40,7 +40,7 @@
       "region": "Bordeaux",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 157.2738,
+      "value_sgd": 46.2307,
       "drink_from": 2013,
       "drink_to": 2027,
       "status": "drink-now",
@@ -59,7 +59,7 @@
       "region": "Bordeaux",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 46.2307,
+      "value_sgd": 154.6105,
       "drink_from": 2013,
       "drink_to": 2027,
       "status": "drink-now",
@@ -97,7 +97,7 @@
       "region": "Rapel Valley",
       "country": "Chile",
       "quantity": 1,
-      "value_sgd": 169.3178,
+      "value_sgd": 167.3136,
       "drink_from": 2021,
       "drink_to": 2031,
       "status": "drink-now",
@@ -159,7 +159,7 @@
       "drink_to": 2029,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 89.8,
+      "community_score_100": 89.7,
       "critics": {}
     },
     {
@@ -173,9 +173,9 @@
       "region": "Tuscany",
       "country": "Italy",
       "quantity": 1,
-      "value_sgd": 66.1445,
+      "value_sgd": 63.2128,
       "drink_from": 2026,
-      "drink_to": 2038,
+      "drink_to": 2039,
       "status": "drink-now",
       "my_rating_10": null,
       "community_score_100": 92.2,
@@ -211,7 +211,7 @@
       "region": "La Rioja",
       "country": "Spain",
       "quantity": 1,
-      "value_sgd": 50.5224,
+      "value_sgd": 51.0648,
       "drink_from": 2026,
       "drink_to": 2037,
       "status": "drink-now",
@@ -232,7 +232,7 @@
       "region": "Western Australia",
       "country": "Australia",
       "quantity": 1,
-      "value_sgd": 116.6799,
+      "value_sgd": 118.9629,
       "drink_from": 2026,
       "drink_to": 2036,
       "status": "drink-now",
@@ -258,6 +258,28 @@
       "my_rating_10": null,
       "community_score_100": 90.4,
       "critics": {}
+    },
+    {
+      "iwine": "2091381",
+      "vintage": "NV",
+      "wine": "Taittinger Prelude",
+      "producer": "Taittinger",
+      "color": "White",
+      "category": "Sparkling",
+      "varietal": "Champagne Blend",
+      "region": "Champagne",
+      "country": "France",
+      "quantity": 1,
+      "value_sgd": 98.8145,
+      "drink_from": 2019,
+      "drink_to": 2026,
+      "status": "drink-now",
+      "my_rating_10": null,
+      "community_score_100": 90.6,
+      "critics": {
+        "CW": "87-89",
+        "JG": "93+"
+      }
     },
     {
       "iwine": "5367987",
@@ -289,7 +311,7 @@
       "region": "Bordeaux",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 63.0644,
+      "value_sgd": 63.1335,
       "drink_from": 2027,
       "drink_to": 2039,
       "status": "hold",
@@ -346,7 +368,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 81.1308,
+      "value_sgd": 79.8224,
       "drink_from": 2017,
       "drink_to": 2021,
       "status": "past-peak",
@@ -355,28 +377,6 @@
       "critics": {
         "CW": "90-92",
         "JG": "92"
-      }
-    },
-    {
-      "iwine": "2091381",
-      "vintage": "NV",
-      "wine": "Taittinger Prelude",
-      "producer": "Taittinger",
-      "color": "White",
-      "category": "Sparkling",
-      "varietal": "Champagne Blend",
-      "region": "Champagne",
-      "country": "France",
-      "quantity": 1,
-      "value_sgd": 100.0658,
-      "drink_from": 2019,
-      "drink_to": 2025,
-      "status": "past-peak",
-      "my_rating_10": null,
-      "community_score_100": 90.6,
-      "critics": {
-        "CW": "87-89",
-        "JG": "93+"
       }
     }
   ],
@@ -562,19 +562,19 @@
       "rated": false
     },
     {
-      "wine": "Hamilton Russell Vineyards Pinot Noir",
-      "vintage": 2023,
-      "color": "Red",
-      "varietal": "Pinot Noir",
+      "wine": "Caves d'Esclans Whispering Angel",
+      "vintage": 2024,
+      "color": "Rosé",
+      "varietal": "Rosé Blend",
       "date": "2025-12-31",
       "my_rating_10": null,
       "rated": false
     },
     {
-      "wine": "Caves d'Esclans Whispering Angel",
-      "vintage": 2024,
-      "color": "Rosé",
-      "varietal": "Rosé Blend",
+      "wine": "Hamilton Russell Vineyards Pinot Noir",
+      "vintage": 2023,
+      "color": "Red",
+      "varietal": "Pinot Noir",
       "date": "2025-12-31",
       "my_rating_10": null,
       "rated": false
