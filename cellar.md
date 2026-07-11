@@ -11,8 +11,8 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$234 |  | 92.3  |
-| 2004 | Château Léoville Barton | Château Léoville Barton | Red | Red Bordeaux Blend | Bordeaux | 2013-2027 | Drink now | S$46 |  | 92.2  |
 | 2004 | Château Léoville Barton | Château Léoville Barton | Red | Red Bordeaux Blend | Bordeaux | 2013-2027 | Drink now | S$156 |  | 92.2  |
+| 2004 | Château Léoville Barton | Château Léoville Barton | Red | Red Bordeaux Blend | Bordeaux | 2013-2027 | Drink now | S$46 |  | 92.2  |
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
 | 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$167 |  | 93.8  |
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$71 |  | 91.4  |
@@ -27,7 +27,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$63 |  | 92.2  |
 | 2020 | Negretti Barolo | Negretti | Red | Nebbiolo | Piedmont | 2027-2038 | Hold | S$56 |  | 88  |
 | 2021 | Paul Jaboulet Aîné Côte-Rôtie Les Jumelles | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2030-2041 | Hold | S$98 |  |   |
-| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2017-2021 | Past peak | S$78 |  | 90.1 JG 92 |
+| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2017-2021 | Past peak | S$77 |  | 90.1 JG 92 |
 
 ## Drink soon
 
