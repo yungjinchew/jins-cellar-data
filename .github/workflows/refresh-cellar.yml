@@ -1,7 +1,7 @@
 name: Refresh cellar export
 on:
   schedule:
-    - cron: '0 3 * * 1'
+    - cron: '0 2 * * *'
   workflow_dispatch: {}
 jobs:
   export:
@@ -13,6 +13,26 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Pull CellarTracker into Supabase (ingest)
+        env:
+          INGEST_SECRET: ${{ secrets.INGEST_SECRET }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          if [ -z "$INGEST_SECRET" ]; then
+            echo "INGEST_SECRET not set yet; skipping live pull and exporting last-known-good."
+          else
+            code=$(curl -sS -o /tmp/ingest.json -w '%{http_code}' -X POST \
+              -H "x-ingest-secret: $INGEST_SECRET" \
+              -H "apikey: $SUPABASE_KEY" \
+              -H "Authorization: Bearer $SUPABASE_KEY" \
+              https://ahofommkgdrpedivuxai.supabase.co/functions/v1/ingest || echo 000)
+            echo "ingest HTTP $code"
+            head -c 500 /tmp/ingest.json 2>/dev/null || true
+            echo
+            if [ "$code" != "200" ]; then
+              echo "::warning::Ingest returned $code (not 200); exporting last-known-good instead."
+            fi
+          fi
       - name: Export cellar from Supabase
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
