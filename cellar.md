@@ -2,6 +2,8 @@
 
 _Auto-exported from CellarTracker via Supabase, refreshed weekly. 18 bottles, S$1,556 total (15 red, 1 white, 2 sparkling)._
 
+_Inventory last changed 2026-07-11. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
+
 Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current year). **My /10** = Jin's personal score. **CT** = CellarTracker community score (out of 100). **NV** = non-vintage.
 
 ## Current cellar (18 bottles)

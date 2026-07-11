@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-07-11T13:07:49.268Z",
+  "generated_at": "2026-07-11T13:34:25.073Z",
   "source": "CellarTracker via Supabase",
   "refresh_ran_at": "2026-07-11T12:57:35.932+00:00",
+  "last_inventory_change": "2026-07-11",
   "summary": {
     "bottles": 18,
     "total_value_sgd": 1556,
