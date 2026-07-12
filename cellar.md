@@ -1,4 +1,4 @@
-# Jin's Wine Cellar — snapshot 2026-07-11
+# Jin's Wine Cellar — snapshot 2026-07-12
 
 _Auto-exported from CellarTracker via Supabase, refreshed weekly. 18 bottles, S$1,556 total (15 red, 1 white, 2 sparkling)._
 
@@ -10,7 +10,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$234 |  | 92.3  |
+| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$234 |  | 92.4  |
 | 2004 | Château Léoville Barton | Château Léoville Barton | Red | Red Bordeaux Blend | Bordeaux | 2013-2027 | Drink now | S$156 |  | 92.2  |
 | 2004 | Château Léoville Barton | Château Léoville Barton | Red | Red Bordeaux Blend | Bordeaux | 2013-2027 | Drink now | S$46 |  | 92.2  |
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
@@ -20,14 +20,14 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$29 |  | 89.7  |
 | 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2039 | Drink now | S$63 |  | 92.2  |
 | 2021 | Jean-Marie Fourrier Bourgogne | Jean-Marie Fourrier | Red | Pinot Noir | Burgundy | 2025-2031 | Drink now | S$80 |  | 90  |
-| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2026-2037 | Drink now | S$51 |  | 91.9 JG 94 |
+| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2026-2037 | Drink now | S$50 |  | 91.9 JG 94 |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$53 |  | 90.4  |
 | NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2019-2026 | Drink now | S$99 |  | 90.6 JG 93+ |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$42 |  |   |
 | 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$63 |  | 92.2  |
 | 2020 | Negretti Barolo | Negretti | Red | Nebbiolo | Piedmont | 2027-2038 | Hold | S$56 |  | 88  |
 | 2021 | Paul Jaboulet Aîné Côte-Rôtie Les Jumelles | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2030-2041 | Hold | S$98 |  |   |
-| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2017-2021 | Past peak | S$77 |  | 90.1 JG 92 |
+| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2017-2021 | Past peak | S$78 |  | 90.1 JG 92 |
 
 ## Drink soon
 
