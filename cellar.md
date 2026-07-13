@@ -1,18 +1,16 @@
-# Jin's Wine Cellar — snapshot 2026-07-12
+# Jin's Wine Cellar — snapshot 2026-07-13
 
-_Auto-exported from CellarTracker via Supabase, refreshed weekly. 18 bottles, S$1,556 total (15 red, 1 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed weekly. 16 bottles, S$1,364 total (13 red, 1 white, 2 sparkling)._
 
-_Inventory last changed 2026-07-11. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
+_Inventory last changed 2026-07-13. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
 Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current year). **My /10** = Jin's personal score. **CT** = CellarTracker community score (out of 100). **NV** = non-vintage.
 
-## Current cellar (18 bottles)
+## Current cellar (16 bottles)
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$234 |  | 92.4  |
-| 2004 | Château Léoville Barton | Château Léoville Barton | Red | Red Bordeaux Blend | Bordeaux | 2013-2027 | Drink now | S$156 |  | 92.2  |
-| 2004 | Château Léoville Barton | Château Léoville Barton | Red | Red Bordeaux Blend | Bordeaux | 2013-2027 | Drink now | S$46 |  | 92.2  |
+| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$233 |  | 92.4  |
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
 | 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$167 |  | 93.8  |
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$71 |  | 91.4  |
@@ -25,21 +23,21 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2019-2026 | Drink now | S$99 |  | 90.6 JG 93+ |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$42 |  |   |
 | 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$63 |  | 92.2  |
-| 2020 | Negretti Barolo | Negretti | Red | Nebbiolo | Piedmont | 2027-2038 | Hold | S$56 |  | 88  |
+| 2020 | Negretti Barolo | Negretti | Red | Nebbiolo | Piedmont | 2027-2038 | Hold | S$68 |  | 88  |
 | 2021 | Paul Jaboulet Aîné Côte-Rôtie Les Jumelles | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2030-2041 | Hold | S$98 |  |   |
-| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2017-2021 | Past peak | S$78 |  | 90.1 JG 92 |
+| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2017-2021 | Past peak | S$77 |  | 90.1 JG 92 |
 
 ## Drink soon
 
 - NV Pol Roger Champagne Brut Réserve (Pol Roger) — past peak, drink up
 - NV Taittinger Prelude (Taittinger) — window closes 2026
-- 2004 Château Léoville Barton (Château Léoville Barton) — window closes 2027
-- 2004 Château Léoville Barton (Château Léoville Barton) — window closes 2027
 
 ## Recently tasted, top rated (Jin's /10)
 
 | My /10 | Wine | Vintage | Varietal | Date |
 |---|---|---|---|---|
+| 9.8 | Château Léoville Barton | 2004 | Red Bordeaux Blend | 2026-07-13 |
+| 9.8 | Château Léoville Barton | 2004 | Red Bordeaux Blend | 2026-07-13 |
 | 9.5 | Clos des Papes Châteauneuf-du-Pape | 2018 | Red Rhone Blend | 2026-05-25 |
 | 9.5 | Burn Cottage Pinot Noir Sauvage Vineyard | 2021 | Pinot Noir | 2026-05-03 |
 | 9.2 | Markus Molitor Haus Klosterberg Riesling (White Capsule) | 2022 | Riesling | 2026-04-13 |
