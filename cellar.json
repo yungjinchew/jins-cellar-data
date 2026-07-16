@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T04:40:23.037Z",
+  "generated_at": "2026-07-16T04:50:40.215Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-07-15T04:40:18.967+00:00",
+  "refresh_ran_at": "2026-07-16T04:50:33.993+00:00",
   "last_inventory_change": "2026-07-13",
   "summary": {
     "bottles": 16,
@@ -533,19 +533,19 @@
       "rated": false
     },
     {
-      "wine": "Caves d'Esclans Whispering Angel",
-      "vintage": 2024,
-      "color": "Rosé",
-      "varietal": "Rosé Blend",
+      "wine": "Hamilton Russell Vineyards Pinot Noir",
+      "vintage": 2023,
+      "color": "Red",
+      "varietal": "Pinot Noir",
       "date": "2025-12-31",
       "my_rating_10": null,
       "rated": false
     },
     {
-      "wine": "Hamilton Russell Vineyards Pinot Noir",
-      "vintage": 2023,
-      "color": "Red",
-      "varietal": "Pinot Noir",
+      "wine": "Caves d'Esclans Whispering Angel",
+      "vintage": 2024,
+      "color": "Rosé",
+      "varietal": "Rosé Blend",
       "date": "2025-12-31",
       "my_rating_10": null,
       "rated": false
