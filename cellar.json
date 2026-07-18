@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T04:53:40.716Z",
+  "generated_at": "2026-07-18T04:38:46.603Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-07-17T04:53:34.117+00:00",
+  "refresh_ran_at": "2026-07-18T04:38:41.308+00:00",
   "last_inventory_change": "2026-07-13",
   "summary": {
     "bottles": 16,
@@ -136,7 +136,7 @@
       "region": "Tuscany",
       "country": "Italy",
       "quantity": 1,
-      "value_sgd": 63.2128,
+      "value_sgd": 63.9227,
       "drink_from": 2026,
       "drink_to": 2039,
       "status": "drink-now",
@@ -312,7 +312,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 76.6445,
+      "value_sgd": 75.9221,
       "drink_from": 2017,
       "drink_to": 2021,
       "status": "past-peak",
