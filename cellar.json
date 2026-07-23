@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T04:58:09.677Z",
+  "generated_at": "2026-07-23T05:15:41.072Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-07-22T04:58:04.517+00:00",
+  "refresh_ran_at": "2026-07-23T05:15:33.866+00:00",
   "last_inventory_change": "2026-07-19",
   "summary": {
     "bottles": 20,
-    "total_value_sgd": 1603,
+    "total_value_sgd": 1601,
     "reds": 15,
     "whites": 3,
     "sparkling": 2
@@ -231,7 +231,7 @@
       "region": "La Rioja",
       "country": "Spain",
       "quantity": 1,
-      "value_sgd": 50.7472,
+      "value_sgd": 49.8427,
       "drink_from": 2026,
       "drink_to": 2037,
       "status": "drink-now",
@@ -388,7 +388,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 78.0487,
+      "value_sgd": 76.5715,
       "drink_from": 2017,
       "drink_to": 2021,
       "status": "past-peak",
@@ -609,19 +609,19 @@
       "rated": false
     },
     {
-      "wine": "Hamilton Russell Vineyards Pinot Noir",
-      "vintage": 2023,
-      "color": "Red",
-      "varietal": "Pinot Noir",
+      "wine": "Caves d'Esclans Whispering Angel",
+      "vintage": 2024,
+      "color": "Rosé",
+      "varietal": "Rosé Blend",
       "date": "2025-12-31",
       "my_rating_10": null,
       "rated": false
     },
     {
-      "wine": "Caves d'Esclans Whispering Angel",
-      "vintage": 2024,
-      "color": "Rosé",
-      "varietal": "Rosé Blend",
+      "wine": "Hamilton Russell Vineyards Pinot Noir",
+      "vintage": 2023,
+      "color": "Red",
+      "varietal": "Pinot Noir",
       "date": "2025-12-31",
       "my_rating_10": null,
       "rated": false
