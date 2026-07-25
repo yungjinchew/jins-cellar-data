@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T05:00:21.950Z",
+  "generated_at": "2026-07-25T04:56:10.936Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-07-24T05:00:14.806+00:00",
+  "refresh_ran_at": "2026-07-25T04:56:04.958+00:00",
   "last_inventory_change": "2026-07-19",
   "summary": {
     "bottles": 20,
-    "total_value_sgd": 1604,
+    "total_value_sgd": 1606,
     "reds": 15,
     "whites": 3,
     "sparkling": 2
@@ -231,7 +231,7 @@
       "region": "La Rioja",
       "country": "Spain",
       "quantity": 1,
-      "value_sgd": 50.4228,
+      "value_sgd": 52.4557,
       "drink_from": 2026,
       "drink_to": 2037,
       "status": "drink-now",
