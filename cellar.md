@@ -1,4 +1,4 @@
-# Jin's Wine Cellar — snapshot 2026-08-02
+# Jin's Wine Cellar — snapshot 2026-08-03
 
 _Auto-exported from CellarTracker via Supabase, refreshed weekly. 20 bottles, S$1,596 total (15 red, 3 white, 2 sparkling)._
 
@@ -29,7 +29,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2022 | Domaine Jean Chauvenet Nuits-Saint-Georges Vieilles Vignes | Domaine Jean Chauvenet | Red | Pinot Noir | Burgundy | 2027-2035 | Hold | S$81 |  |   |
 | 2020 | Negretti Barolo | Negretti | Red | Nebbiolo | Piedmont | 2027-2038 | Hold | S$68 |  | 88  |
 | 2021 | Paul Jaboulet Aîné Côte-Rôtie Les Jumelles | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2030-2041 | Hold | S$98 |  |   |
-| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2017-2021 | Past peak | S$75 |  | 90.1 JG 92 |
+| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2017-2021 | Past peak | S$74 |  | 90.1 JG 92 |
 
 ## Drink soon
 
