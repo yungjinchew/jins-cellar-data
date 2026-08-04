@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T05:31:09.001Z",
+  "generated_at": "2026-08-04T04:54:08.862Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-08-03T05:31:02.359+00:00",
+  "refresh_ran_at": "2026-08-04T04:54:04.192+00:00",
   "last_inventory_change": "2026-07-19",
   "summary": {
     "bottles": 20,
