@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T03:23:53.804Z",
+  "generated_at": "2026-08-10T03:43:06.126Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-08-09T03:23:49.296+00:00",
+  "refresh_ran_at": "2026-08-10T03:42:59.479+00:00",
   "last_inventory_change": "2026-07-19",
   "summary": {
     "bottles": 20,
-    "total_value_sgd": 1594,
+    "total_value_sgd": 1595,
     "reds": 15,
     "whites": 3,
     "sparkling": 2
@@ -388,7 +388,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 72.7216,
+      "value_sgd": 73.6054,
       "drink_from": 2017,
       "drink_to": 2021,
       "status": "past-peak",
