@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T03:55:11.174Z",
+  "generated_at": "2026-08-13T03:58:53.578Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-08-12T03:55:06.279+00:00",
+  "refresh_ran_at": "2026-08-13T03:58:48.429+00:00",
   "last_inventory_change": "2026-07-19",
   "summary": {
     "bottles": 20,
-    "total_value_sgd": 1593,
+    "total_value_sgd": 1595,
     "reds": 15,
     "whites": 3,
     "sparkling": 2
@@ -41,7 +41,7 @@
       "region": "Rhône",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 50.1134,
+      "value_sgd": 50.1751,
       "drink_from": 2026,
       "drink_to": 2034,
       "status": "drink-now",
@@ -293,7 +293,7 @@
       "region": "Tuscany",
       "country": "Italy",
       "quantity": 1,
-      "value_sgd": 41.5876,
+      "value_sgd": 43.1413,
       "drink_from": 2028,
       "drink_to": 2036,
       "status": "hold",
