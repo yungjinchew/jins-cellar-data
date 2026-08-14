@@ -1,6 +1,6 @@
-# Jin's Wine Cellar — snapshot 2026-08-13
+# Jin's Wine Cellar — snapshot 2026-08-14
 
-_Auto-exported from CellarTracker via Supabase, refreshed weekly. 20 bottles, S$1,595 total (15 red, 3 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed weekly. 20 bottles, S$1,596 total (15 red, 3 white, 2 sparkling)._
 
 _Inventory last changed 2026-07-19. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
@@ -20,8 +20,8 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$29 |  | 89.7  |
 | 2023 | Famille Grossot Chablis | Famille Grossot | White | Chardonnay | Burgundy | 2026-2029 | Drink now | S$55 |  | 91.3  |
 | 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2039 | Drink now | S$65 |  | 92.2  |
-| 2021 | Jean-Marie Fourrier Bourgogne | Jean-Marie Fourrier | Red | Pinot Noir | Burgundy | 2025-2031 | Drink now | S$80 |  | 90  |
-| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2026-2037 | Drink now | S$50 |  | 91.9 JG 94 |
+| 2021 | Jean-Marie Fourrier Bourgogne | Jean-Marie Fourrier | Red | Pinot Noir | Burgundy | 2025-2031 | Drink now | S$82 |  | 90  |
+| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2026-2037 | Drink now | S$49 |  | 91.9 JG 94 |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$52 |  | 90.5  |
 | NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2019-2026 | Drink now | S$97 |  | 90.6 JG 93+ |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$43 |  |   |
