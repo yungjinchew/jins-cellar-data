@@ -1,4 +1,4 @@
-# Jin's Wine Cellar — snapshot 2026-08-15
+# Jin's Wine Cellar — snapshot 2026-08-16
 
 _Auto-exported from CellarTracker via Supabase, refreshed weekly. 20 bottles, S$1,597 total (15 red, 3 white, 2 sparkling)._
 
@@ -17,7 +17,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$167 |  | 93.8  |
 | 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$101 |  | 92.2  |
 | 2022 | Dominique Cornin Pouilly-Fuissé | Dominique Cornin | White | Chardonnay | Burgundy | 2025-2029 | Drink now | S$51 |  | 88.5  |
-| 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$29 |  | 89.6  |
+| 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$29 |  | 89.7  |
 | 2023 | Famille Grossot Chablis | Famille Grossot | White | Chardonnay | Burgundy | 2026-2029 | Drink now | S$55 |  | 91.3  |
 | 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2039 | Drink now | S$67 |  | 92.2  |
 | 2021 | Jean-Marie Fourrier Bourgogne | Jean-Marie Fourrier | Red | Pinot Noir | Burgundy | 2025-2031 | Drink now | S$82 |  | 89.8  |
