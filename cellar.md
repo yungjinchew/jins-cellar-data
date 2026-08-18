@@ -1,6 +1,6 @@
-# Jin's Wine Cellar — snapshot 2026-08-17
+# Jin's Wine Cellar — snapshot 2026-08-18
 
-_Auto-exported from CellarTracker via Supabase, refreshed weekly. 20 bottles, S$1,598 total (15 red, 3 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed weekly. 20 bottles, S$1,597 total (15 red, 3 white, 2 sparkling)._
 
 _Inventory last changed 2026-07-19. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
@@ -10,7 +10,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$232 |  | 92.4  |
+| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$234 |  | 92.4  |
 | 2021 | Château Mont-Redon Châteauneuf-du-Pape | Château Mont-Redon | Red | Red Rhone Blend | Rhône | 2026-2034 | Drink now | S$50 |  | 90.3  |
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$71 |  | 91.4  |
@@ -23,7 +23,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2021 | Jean-Marie Fourrier Bourgogne | Jean-Marie Fourrier | Red | Pinot Noir | Burgundy | 2025-2031 | Drink now | S$82 |  | 89.8  |
 | 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2026-2037 | Drink now | S$49 |  | 91.9 JG 94 |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$52 |  | 90.5  |
-| NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2019-2026 | Drink now | S$97 |  | 90.6 JG 93+ |
+| NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2019-2026 | Drink now | S$94 |  | 90.6 JG 93+ |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$43 |  |   |
 | 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$62 |  | 92.1  |
 | 2022 | Domaine Jean Chauvenet Nuits-Saint-Georges Vieilles Vignes | Domaine Jean Chauvenet | Red | Pinot Noir | Burgundy | 2027-2035 | Hold | S$81 |  |   |
