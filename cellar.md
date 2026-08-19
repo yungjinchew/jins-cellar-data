@@ -1,4 +1,4 @@
-# Jin's Wine Cellar — snapshot 2026-08-18
+# Jin's Wine Cellar — snapshot 2026-08-19
 
 _Auto-exported from CellarTracker via Supabase, refreshed weekly. 20 bottles, S$1,597 total (15 red, 3 white, 2 sparkling)._
 
@@ -21,7 +21,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2023 | Famille Grossot Chablis | Famille Grossot | White | Chardonnay | Burgundy | 2026-2029 | Drink now | S$55 |  | 91.3  |
 | 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2039 | Drink now | S$68 |  | 92.2  |
 | 2021 | Jean-Marie Fourrier Bourgogne | Jean-Marie Fourrier | Red | Pinot Noir | Burgundy | 2025-2031 | Drink now | S$82 |  | 89.8  |
-| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2026-2037 | Drink now | S$49 |  | 91.9 JG 94 |
+| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2026-2037 | Drink now | S$50 |  | 91.9 JG 94 |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$52 |  | 90.5  |
 | NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2019-2026 | Drink now | S$94 |  | 90.6 JG 93+ |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$43 |  |   |
