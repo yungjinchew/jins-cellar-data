@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T02:45:41.605Z",
+  "generated_at": "2026-08-23T02:53:40.035Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-08-22T02:45:36.756+00:00",
+  "refresh_ran_at": "2026-08-23T02:53:34.242+00:00",
   "last_inventory_change": "2026-07-19",
   "summary": {
     "bottles": 20,
-    "total_value_sgd": 1605,
+    "total_value_sgd": 1604,
     "reds": 15,
     "whites": 3,
     "sparkling": 2
@@ -193,7 +193,7 @@
       "region": "Tuscany",
       "country": "Italy",
       "quantity": 1,
-      "value_sgd": 68.0879,
+      "value_sgd": 67.9097,
       "drink_from": 2026,
       "drink_to": 2039,
       "status": "drink-now",
