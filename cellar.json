@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T02:56:05.648Z",
+  "generated_at": "2026-08-27T12:08:10.744Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-08-26T02:55:58.858+00:00",
+  "refresh_ran_at": "2026-08-27T12:08:05.413+00:00",
   "last_inventory_change": "2026-08-24",
   "summary": {
     "bottles": 19,
@@ -155,7 +155,7 @@
       "region": "Mendoza",
       "country": "Argentina",
       "quantity": 1,
-      "value_sgd": 29.1211,
+      "value_sgd": 28.9334,
       "drink_from": 2024,
       "drink_to": 2029,
       "status": "drink-now",
@@ -212,7 +212,7 @@
       "region": "La Rioja",
       "country": "Spain",
       "quantity": 1,
-      "value_sgd": 48.8736,
+      "value_sgd": 49.0508,
       "drink_from": 2026,
       "drink_to": 2037,
       "status": "drink-now",
