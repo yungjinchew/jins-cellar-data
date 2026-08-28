@@ -1,4 +1,4 @@
-# Jin's Wine Cellar — snapshot 2026-08-27
+# Jin's Wine Cellar — snapshot 2026-08-28
 
 _Auto-exported from CellarTracker via Supabase, refreshed weekly. 19 bottles, S$1,521 total (14 red, 3 white, 2 sparkling)._
 
@@ -10,7 +10,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$239 |  | 92.5  |
+| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$239 |  | 92.7  |
 | 2021 | Château Mont-Redon Châteauneuf-du-Pape | Château Mont-Redon | Red | Red Rhone Blend | Rhône | 2026-2034 | Drink now | S$50 |  | 90.3  |
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$71 |  | 91.4  |
@@ -28,7 +28,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2022 | Domaine Jean Chauvenet Nuits-Saint-Georges Vieilles Vignes | Domaine Jean Chauvenet | Red | Pinot Noir | Burgundy | 2027-2035 | Hold | S$81 |  |   |
 | 2020 | Negretti Barolo | Negretti | Red | Nebbiolo | Piedmont | 2027-2038 | Hold | S$68 |  | 88  |
 | 2021 | Paul Jaboulet Aîné Côte-Rôtie Les Jumelles | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2030-2041 | Hold | S$98 |  |   |
-| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2017-2021 | Past peak | S$75 |  | 90.1 JG 92 |
+| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2017-2021 | Past peak | S$76 |  | 90.1 JG 92 |
 
 ## Drink soon
 
