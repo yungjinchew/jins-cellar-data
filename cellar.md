@@ -1,4 +1,4 @@
-# Jin's Wine Cellar — snapshot 2026-09-01
+# Jin's Wine Cellar — snapshot 2026-09-02
 
 _Auto-exported from CellarTracker via Supabase, refreshed weekly. 18 bottles, S$1,472 total (13 red, 3 white, 2 sparkling)._
 
@@ -18,7 +18,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2022 | Dominique Cornin Pouilly-Fuissé | Dominique Cornin | White | Chardonnay | Burgundy | 2025-2029 | Drink now | S$51 |  | 88.5  |
 | 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$29 |  | 89.7  |
 | 2023 | Famille Grossot Chablis | Famille Grossot | White | Chardonnay | Burgundy | 2026-2029 | Drink now | S$55 |  | 91.3  |
-| 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2039 | Drink now | S$69 |  | 92.2  |
+| 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2039 | Drink now | S$70 |  | 92.2  |
 | 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2026-2037 | Drink now | S$48 |  | 91.9 JG 94 |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$51 |  | 90.4  |
 | NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$78 |  | 90.1 JG 92 |
