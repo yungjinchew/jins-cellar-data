@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T06:39:03.203Z",
+  "generated_at": "2026-09-04T06:43:48.234Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-09-03T06:38:56.98+00:00",
+  "refresh_ran_at": "2026-09-04T06:43:42.508+00:00",
   "last_inventory_change": "2026-08-31",
   "summary": {
     "bottles": 18,
-    "total_value_sgd": 1471,
+    "total_value_sgd": 1469,
     "reds": 13,
     "whites": 3,
     "sparkling": 2
@@ -233,7 +233,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 76.9002,
+      "value_sgd": 75.0269,
       "drink_from": 2024,
       "drink_to": 2040,
       "status": "drink-now",
@@ -634,19 +634,19 @@
       "rated": false
     },
     {
-      "wine": "Marqués de Murrieta Rioja",
-      "vintage": 2020,
-      "color": "Red",
-      "varietal": "Tempranillo Blend",
+      "wine": "Alheit Vineyards Cartology Bushvines",
+      "vintage": 2022,
+      "color": "White",
+      "varietal": "Chenin Blanc",
       "date": "2025-10-17",
       "my_rating_10": null,
       "rated": false
     },
     {
-      "wine": "Alheit Vineyards Cartology Bushvines",
-      "vintage": 2022,
-      "color": "White",
-      "varietal": "Chenin Blanc",
+      "wine": "Marqués de Murrieta Rioja",
+      "vintage": 2020,
+      "color": "Red",
+      "varietal": "Tempranillo Blend",
       "date": "2025-10-17",
       "my_rating_10": null,
       "rated": false

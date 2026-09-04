@@ -1,6 +1,6 @@
-# Jin's Wine Cellar — snapshot 2026-09-03
+# Jin's Wine Cellar — snapshot 2026-09-04
 
-_Auto-exported from CellarTracker via Supabase, refreshed weekly. 18 bottles, S$1,471 total (13 red, 3 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed weekly. 18 bottles, S$1,469 total (13 red, 3 white, 2 sparkling)._
 
 _Inventory last changed 2026-08-31. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
@@ -21,7 +21,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2039 | Drink now | S$70 |  | 92.2  |
 | 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2026-2037 | Drink now | S$48 |  | 91.9 JG 94 |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$51 |  | 90.4  |
-| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$77 |  | 90.1 JG 92 |
+| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$75 |  | 90.1 JG 92 |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$44 |  |   |
 | 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$62 |  | 92.1  |
 | 2022 | Domaine Jean Chauvenet Nuits-Saint-Georges Vieilles Vignes | Domaine Jean Chauvenet | Red | Pinot Noir | Burgundy | 2027-2035 | Hold | S$81 |  |   |
