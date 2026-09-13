@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T06:40:12.521Z",
+  "generated_at": "2026-09-13T06:57:33.792Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-09-12T06:40:08.234+00:00",
+  "refresh_ran_at": "2026-09-13T06:57:27.044+00:00",
   "last_inventory_change": "2026-09-12",
   "summary": {
     "bottles": 25,
@@ -22,7 +22,7 @@
       "region": "Western Cape",
       "country": "South Africa",
       "quantity": 1,
-      "value_sgd": 36.4814,
+      "value_sgd": 37.0541,
       "drink_from": 2023,
       "drink_to": 2030,
       "status": "drink-now",
@@ -46,7 +46,7 @@
       "drink_to": 2031,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 91.4,
+      "community_score_100": 91.3,
       "critics": {}
     },
     {
@@ -79,7 +79,7 @@
       "region": "Bordeaux",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 69.2809,
+      "value_sgd": 69.1741,
       "drink_from": 2024,
       "drink_to": 2032,
       "status": "drink-now",
@@ -250,12 +250,12 @@
       "region": "La Rioja",
       "country": "Spain",
       "quantity": 1,
-      "value_sgd": 47.2708,
+      "value_sgd": 47.7162,
       "drink_from": 2026,
       "drink_to": 2037,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 91.9,
+      "community_score_100": 92,
       "critics": {
         "JG": "94"
       }
@@ -328,7 +328,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 75.9881,
+      "value_sgd": 75.3908,
       "drink_from": 2024,
       "drink_to": 2040,
       "status": "drink-now",
