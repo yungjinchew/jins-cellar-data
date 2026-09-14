@@ -1,4 +1,4 @@
-# Jin's Wine Cellar — snapshot 2026-09-13
+# Jin's Wine Cellar — snapshot 2026-09-14
 
 _Auto-exported from CellarTracker via Supabase, refreshed weekly. 25 bottles, S$1,790 total (17 red, 6 white, 2 sparkling)._
 
