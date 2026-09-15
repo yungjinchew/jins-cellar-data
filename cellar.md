@@ -1,16 +1,15 @@
-# Jin's Wine Cellar — snapshot 2026-09-14
+# Jin's Wine Cellar — snapshot 2026-09-15
 
-_Auto-exported from CellarTracker via Supabase, refreshed weekly. 25 bottles, S$1,790 total (17 red, 6 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed weekly. 24 bottles, S$1,753 total (17 red, 5 white, 2 sparkling)._
 
-_Inventory last changed 2026-09-12. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
+_Inventory last changed 2026-09-15. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
 Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current year). **My /10** = Jin's personal score. **CT** = CellarTracker community score (out of 100). **NV** = non-vintage.
 
-## Current cellar (25 bottles)
+## Current cellar (24 bottles)
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2022 | Alheit Vineyards Hereafter Here | Alheit Vineyards | White | Chenin Blanc | Western Cape | 2023-2030 | Drink now | S$37 |  | 90.2  |
 | 2022 | Burn Cottage Pinot Noir Moonlight Race | Burn Cottage | Red | Pinot Noir | South Island | 2024-2031 | Drink now | S$59 |  | 91.3  |
 | 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$235 |  | 92.7  |
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
@@ -49,6 +48,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 9.2 | Château Giscours | 2016 | Red Bordeaux Blend | 2026-02-01 |
 | 9.2 | Château Palmer Alter Ego | 2020 | Red Bordeaux Blend | 2025-12-31 |
 | 9.2 | Burn Cottage Pinot Noir Moonlight Race | 2020 | Pinot Noir | 2025-11-06 |
+| 9 | Alheit Vineyards Hereafter Here | 2022 | Chenin Blanc | 2026-09-14 |
 | 9 | Château Mont-Redon Châteauneuf-du-Pape | 2021 | Red Rhone Blend | 2026-08-30 |
 | 9 | Leeuwin Estate Chardonnay Art Series | 2021 | Chardonnay | 2026-07-06 |
 | 9 | Alheit Vineyards Cartology Bushvines | 2023 | Chenin Blanc | 2026-06-21 |
