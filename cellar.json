@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T06:56:17.435Z",
+  "generated_at": "2026-09-16T06:58:21.481Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-09-15T06:56:11.254+00:00",
+  "refresh_ran_at": "2026-09-16T06:58:14.847+00:00",
   "last_inventory_change": "2026-09-15",
   "summary": {
     "bottles": 24,
-    "total_value_sgd": 1753,
+    "total_value_sgd": 1749,
     "reds": 17,
     "whites": 5,
     "sparkling": 2
@@ -174,7 +174,7 @@
       "region": "Mendoza",
       "country": "Argentina",
       "quantity": 1,
-      "value_sgd": 29.0501,
+      "value_sgd": 28.4936,
       "drink_from": 2024,
       "drink_to": 2029,
       "status": "drink-now",
@@ -231,7 +231,7 @@
       "region": "La Rioja",
       "country": "Spain",
       "quantity": 1,
-      "value_sgd": 47.7162,
+      "value_sgd": 46.2654,
       "drink_from": 2026,
       "drink_to": 2037,
       "status": "drink-now",
@@ -271,7 +271,7 @@
       "region": "Burgundy",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 50.7837,
+      "value_sgd": 50.7305,
       "drink_from": 2025,
       "drink_to": 2030,
       "status": "drink-now",
@@ -309,7 +309,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 75.1185,
+      "value_sgd": 73.8179,
       "drink_from": 2024,
       "drink_to": 2040,
       "status": "drink-now",
@@ -378,25 +378,6 @@
       "critics": {}
     },
     {
-      "iwine": "5038452",
-      "vintage": 2022,
-      "wine": "Dr. Loosen Ürziger Würzgarten Riesling Großes Gewächs Alte Reben Reserve",
-      "producer": "Dr. Loosen",
-      "color": "White",
-      "category": "Dry",
-      "varietal": "Riesling",
-      "region": "Mosel Saar Ruwer",
-      "country": "Germany",
-      "quantity": 1,
-      "value_sgd": 87.2557,
-      "drink_from": 2030,
-      "drink_to": 2044,
-      "status": "hold",
-      "my_rating_10": null,
-      "community_score_100": null,
-      "critics": {}
-    },
-    {
       "iwine": "5414198",
       "vintage": 2024,
       "wine": "Dr. Loosen Wehlener Sonnenuhr Riesling Kabinett",
@@ -416,6 +397,25 @@
       "critics": {
         "JG": "93+"
       }
+    },
+    {
+      "iwine": "5038452",
+      "vintage": 2022,
+      "wine": "Dr. Loosen Ürziger Würzgarten Riesling Großes Gewächs Alte Reben Reserve",
+      "producer": "Dr. Loosen",
+      "color": "White",
+      "category": "Dry",
+      "varietal": "Riesling",
+      "region": "Mosel Saar Ruwer",
+      "country": "Germany",
+      "quantity": 1,
+      "value_sgd": 87.2557,
+      "drink_from": 2030,
+      "drink_to": 2044,
+      "status": "hold",
+      "my_rating_10": null,
+      "community_score_100": null,
+      "critics": {}
     },
     {
       "iwine": "5015310",
