@@ -1,6 +1,6 @@
-# Jin's Wine Cellar — snapshot 2026-09-20
+# Jin's Wine Cellar — snapshot 2026-09-21
 
-_Auto-exported from CellarTracker via Supabase, refreshed weekly. 24 bottles, S$1,751 total (17 red, 5 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed weekly. 24 bottles, S$1,745 total (17 red, 5 white, 2 sparkling)._
 
 _Inventory last changed 2026-09-15. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
@@ -25,7 +25,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$51 |  | 90.4  |
 | 2018 | Paul Jaboulet Aîné Crozes-Hermitage Domaine de Thalabert | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2022-2032 | Drink now | S$43 |  | 90.1  |
-| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$74 |  | 90.1 JG 92 |
+| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$68 |  | 90.1 JG 92 |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$44 |  |   |
 | 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$62 |  | 92.1  |
 | 2022 | Domaine Jean Chauvenet Nuits-Saint-Georges Vieilles Vignes | Domaine Jean Chauvenet | Red | Pinot Noir | Burgundy | 2027-2035 | Hold | S$81 |  |   |
