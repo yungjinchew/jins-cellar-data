@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T07:23:48.428Z",
+  "generated_at": "2026-09-22T07:01:14.469Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-09-21T07:23:43.395+00:00",
+  "refresh_ran_at": "2026-09-22T07:01:06.513+00:00",
   "last_inventory_change": "2026-09-15",
   "summary": {
     "bottles": 24,
@@ -309,7 +309,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 67.9834,
+      "value_sgd": 68.2944,
       "drink_from": 2024,
       "drink_to": 2040,
       "status": "drink-now",
