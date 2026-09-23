@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T07:01:14.469Z",
+  "generated_at": "2026-09-23T06:56:20.734Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-09-22T07:01:06.513+00:00",
+  "refresh_ran_at": "2026-09-23T06:56:14.601+00:00",
   "last_inventory_change": "2026-09-15",
   "summary": {
     "bottles": 24,
-    "total_value_sgd": 1745,
+    "total_value_sgd": 1748,
     "reds": 17,
     "whites": 5,
     "sparkling": 2
@@ -231,7 +231,7 @@
       "region": "La Rioja",
       "country": "Spain",
       "quantity": 1,
-      "value_sgd": 46.3581,
+      "value_sgd": 46.887,
       "drink_from": 2026,
       "drink_to": 2037,
       "status": "drink-now",
@@ -309,7 +309,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 68.2944,
+      "value_sgd": 70.7233,
       "drink_from": 2024,
       "drink_to": 2040,
       "status": "drink-now",
