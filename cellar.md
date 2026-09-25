@@ -1,6 +1,6 @@
-# Jin's Wine Cellar — snapshot 2026-09-24
+# Jin's Wine Cellar — snapshot 2026-09-25
 
-_Auto-exported from CellarTracker via Supabase, refreshed weekly. 24 bottles, S$1,750 total (17 red, 5 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed weekly. 24 bottles, S$1,754 total (17 red, 5 white, 2 sparkling)._
 
 _Inventory last changed 2026-09-15. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
@@ -12,16 +12,16 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 |---|---|---|---|---|---|---|---|---|---|---|
 | 2022 | Burn Cottage Pinot Noir Moonlight Race | Burn Cottage | Red | Pinot Noir | South Island | 2024-2031 | Drink now | S$59 |  | 91.3  |
 | 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$235 |  | 92.7  |
-| 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
+| 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$70 |  | 90.5  |
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$71 |  | 91.4  |
 | 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$166 |  | 93.8  |
 | 2022 | Domaine du Vieux Télégraphe Châteauneuf-du-Pape Télégramme | Domaine du Vieux Télégraphe | Red | Red Rhone Blend | Rhône | 2026-2034 | Drink now | S$74 |  | 91.3  |
-| 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$100 |  | 92.3  |
+| 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$102 |  | 92.3  |
 | 2022 | Dominique Cornin Pouilly-Fuissé | Dominique Cornin | White | Chardonnay | Burgundy | 2025-2029 | Drink now | S$51 |  | 88.5  |
 | 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$28 |  | 89.7  |
 | 2023 | Famille Grossot Chablis | Famille Grossot | White | Chardonnay | Burgundy | 2026-2029 | Drink now | S$55 |  | 91.3  |
 | 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2039 | Drink now | S$71 |  | 92.2  |
-| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2026-2037 | Drink now | S$47 |  | 92 JG 94 |
+| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2026-2037 | Drink now | S$48 |  | 92 JG 94 |
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$51 |  | 90.4  |
 | 2018 | Paul Jaboulet Aîné Crozes-Hermitage Domaine de Thalabert | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2022-2032 | Drink now | S$43 |  | 90.1  |
@@ -31,9 +31,9 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2022 | Domaine Jean Chauvenet Nuits-Saint-Georges Vieilles Vignes | Domaine Jean Chauvenet | Red | Pinot Noir | Burgundy | 2027-2035 | Hold | S$81 |  |   |
 | 2024 | Dr. Loosen Wehlener Sonnenuhr Riesling Kabinett | Dr. Loosen | White | Riesling | Mosel Saar Ruwer | 2028-2038 | Hold | S$25 |  | 89.3 JG 93+ |
 | 2022 | Dr. Loosen Ürziger Würzgarten Riesling Großes Gewächs Alte Reben Reserve | Dr. Loosen | White | Riesling | Mosel Saar Ruwer | 2030-2044 | Hold | S$87 |  |   |
-| 2020 | Negretti Barolo | Negretti | Red | Nebbiolo | Piedmont | 2027-2038 | Hold | S$68 |  | 88  |
+| 2020 | Negretti Barolo | Negretti | Red | Nebbiolo | Piedmont | 2027-2037 | Hold | S$68 |  | 88  |
 | 2021 | Paul Jaboulet Aîné Côte-Rôtie Les Jumelles | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2030-2041 | Hold | S$98 |  |   |
-| NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2030-2065 | Hold | S$93 |  | 90.6 JG 93+ |
+| NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2030-2065 | Hold | S$94 |  | 90.6 JG 93+ |
 
 ## Recently tasted, top rated (Jin's /10)
 
