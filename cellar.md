@@ -1,20 +1,19 @@
-# Jin's Wine Cellar — snapshot 2026-10-12
+# Jin's Wine Cellar — snapshot 2026-10-13
 
-_Auto-exported from CellarTracker via Supabase, refreshed weekly. 23 bottles, S$1,703 total (16 red, 5 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed weekly. 22 bottles, S$1,643 total (15 red, 5 white, 2 sparkling)._
 
-_Inventory last changed 2026-09-28. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
+_Inventory last changed 2026-10-13. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
 Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current year). **My /10** = Jin's personal score. **CT** = CellarTracker community score (out of 100). **NV** = non-vintage.
 
-## Current cellar (23 bottles)
+## Current cellar (22 bottles)
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2022 | Burn Cottage Pinot Noir Moonlight Race | Burn Cottage | Red | Pinot Noir | South Island | 2024-2031 | Drink now | S$59 |  | 91.3  |
 | 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$251 |  | 92.7  |
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$71 |  | 91.4  |
-| 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$166 |  | 93.7  |
+| 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$165 |  | 93.7  |
 | 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$100 |  | 92.3  |
 | 2022 | Dominique Cornin Pouilly-Fuissé | Dominique Cornin | White | Chardonnay | Burgundy | 2025-2029 | Drink now | S$51 |  | 88.5  |
 | 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$29 |  | 89.7  |
@@ -26,7 +25,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2018 | Paul Jaboulet Aîné Crozes-Hermitage Domaine de Thalabert | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2022-2032 | Drink now | S$42 |  | 90  |
 | NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$74 |  | 90.1 JG 92 |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$45 |  |   |
-| 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$62 |  | 92.1  |
+| 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$61 |  | 92.1  |
 | 2022 | Domaine Jean Chauvenet Nuits-Saint-Georges Vieilles Vignes | Domaine Jean Chauvenet | Red | Pinot Noir | Burgundy | 2027-2035 | Hold | S$83 |  |   |
 | 2024 | Dr. Loosen Wehlener Sonnenuhr Riesling Kabinett | Dr. Loosen | White | Riesling | Mosel Saar Ruwer | 2028-2038 | Hold | S$26 |  | 89.3 JG 93+ |
 | 2022 | Dr. Loosen Ürziger Würzgarten Riesling Großes Gewächs Alte Reben Reserve | Dr. Loosen | White | Riesling | Mosel Saar Ruwer | 2030-2044 | Hold | S$87 |  |   |
@@ -40,6 +39,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 |---|---|---|---|---|
 | 9.8 | Château Léoville Barton | 2004 | Red Bordeaux Blend | 2026-07-13 |
 | 9.8 | Château Léoville Barton | 2004 | Red Bordeaux Blend | 2026-07-13 |
+| 9.5 | Burn Cottage Pinot Noir Moonlight Race | 2022 | Pinot Noir | 2026-10-12 |
 | 9.5 | Domaine du Vieux Télégraphe Châteauneuf-du-Pape Télégramme | 2022 | Red Rhone Blend | 2026-09-27 |
 | 9.5 | Clos des Papes Châteauneuf-du-Pape | 2018 | Red Rhone Blend | 2026-05-25 |
 | 9.5 | Burn Cottage Pinot Noir Sauvage Vineyard | 2021 | Pinot Noir | 2026-05-03 |
@@ -57,4 +57,3 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 9 | Gosset Champagne Brut 12 Ans de Cave à minima | NV | Champagne Blend | 2025-12-31 |
 | 8.8 | Jean-Marie Fourrier Bourgogne | 2021 | Pinot Noir | 2026-08-23 |
 | 8.5 | Hans Greyl Sauvignon Blanc Marlborough | 2024 | Sauvignon Blanc | 2026-05-27 |
-| 8 | Duckhorn Vineyards Sauvignon Blanc North Coast | 2021 | Sauvignon Blanc | 2026-05-10 |
