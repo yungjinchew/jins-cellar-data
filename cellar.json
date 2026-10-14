@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T08:41:19.113Z",
+  "generated_at": "2026-10-14T06:52:50.884Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-10-13T08:41:12.646+00:00",
+  "refresh_ran_at": "2026-10-14T06:52:45.733+00:00",
   "last_inventory_change": "2026-10-13",
   "summary": {
     "bottles": 22,
@@ -193,7 +193,7 @@
       "region": "La Rioja",
       "country": "Spain",
       "quantity": 1,
-      "value_sgd": 51.0386,
+      "value_sgd": 50.9872,
       "drink_from": 2026,
       "drink_to": 2037,
       "status": "drink-now",
