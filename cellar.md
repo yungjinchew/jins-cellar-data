@@ -1,4 +1,4 @@
-# Jin's Wine Cellar — snapshot 2026-10-15
+# Jin's Wine Cellar — snapshot 2026-10-16
 
 _Auto-exported from CellarTracker via Supabase, refreshed weekly. 22 bottles, S$1,646 total (15 red, 5 white, 2 sparkling)._
 
@@ -23,7 +23,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$50 |  | 90.5  |
 | 2018 | Paul Jaboulet Aîné Crozes-Hermitage Domaine de Thalabert | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2022-2032 | Drink now | S$42 |  | 90  |
-| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$76 |  | 90.1 JG 92 |
+| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$77 |  | 90.1 JG 92 |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$45 |  |   |
 | 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$61 |  | 92.1  |
 | 2022 | Domaine Jean Chauvenet Nuits-Saint-Georges Vieilles Vignes | Domaine Jean Chauvenet | Red | Pinot Noir | Burgundy | 2027-2035 | Hold | S$83 |  |   |
@@ -31,7 +31,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2022 | Dr. Loosen Ürziger Würzgarten Riesling Großes Gewächs Alte Reben Reserve | Dr. Loosen | White | Riesling | Mosel Saar Ruwer | 2030-2044 | Hold | S$87 |  |   |
 | 2020 | Negretti Barolo | Negretti | Red | Nebbiolo | Piedmont | 2027-2038 | Hold | S$68 |  | 88  |
 | 2021 | Paul Jaboulet Aîné Côte-Rôtie Les Jumelles | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2030-2041 | Hold | S$98 |  |   |
-| NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2030-2065 | Hold | S$94 |  | 90.6 JG 93+ |
+| NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2030-2065 | Hold | S$93 |  | 90.6 JG 93+ |
 
 ## Recently tasted, top rated (Jin's /10)
 
