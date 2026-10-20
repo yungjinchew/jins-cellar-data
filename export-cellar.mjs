@@ -32,8 +32,8 @@ export function buildOutputs(cellar, consumed, critics, refresh, syncState){
     cellar: C.map(w=>({iwine:w.iwine,vintage:w.is_nv?"NV":w.vintage,wine:w.wine,producer:w.producer,color:w.color,category:w.category,varietal:w.varietal,region:w.region,country:w.country,quantity:w.quantity,value_sgd:w.value,drink_from:w.begin_consume,drink_to:w.end_consume,status:w.drink_status,my_rating_10:w.myRating,community_score_100:(w.cscore!=null?Math.round(w.cscore*10)/10:null),critics:w.critic})),
     consumed:(consumed||[]).map(h=>({wine:h.wine,vintage:h.is_nv?"NV":h.vintage,color:h.color,varietal:h.varietal,date:h.consume_date,my_rating_10:h.rating,rated:h.is_rated})) };
   let md = `# Jin's Wine Cellar — snapshot ${date}\n\n`;
-  md += `_Auto-exported from CellarTracker via Supabase, refreshed weekly. ${bottles} bottles, ${fmt(value)} total (${reds} red, ${whites} white, ${spark} sparkling)._\n\n`;
-  if(lastChange) md += `_Inventory last changed ${lastChange}. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._\n\n`;
+  md += `_Auto-exported from CellarTracker via Supabase, refreshed daily. ${bottles} bottles, ${fmt(value)} total (${reds} red, ${whites} white, ${spark} sparkling)._\n\n`;
+  if(lastChange) md += `_Inventory last changed ${lastChange}. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._\n\n`;
   md += `Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current year). **My /10** = Jin's personal score. **CT** = CellarTracker community score (out of 100). **NV** = non-vintage.\n\n`;
   md += `## Current cellar (${bottles} bottles)\n\n`;
   md += `| Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |\n|---|---|---|---|---|---|---|---|---|---|---|\n`;
