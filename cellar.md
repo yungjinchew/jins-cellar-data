@@ -1,12 +1,12 @@
-# Jin's Wine Cellar — snapshot 2026-10-20
+# Jin's Wine Cellar — snapshot 2026-10-21
 
-_Auto-exported from CellarTracker via Supabase, refreshed weekly. 22 bottles, S$1,644 total (15 red, 5 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed daily. 21 bottles, S$1,587 total (15 red, 4 white, 2 sparkling)._
 
-_Inventory last changed 2026-10-13. A steady bottle count between weekly refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
+_Inventory last changed 2026-10-21. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
 Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current year). **My /10** = Jin's personal score. **CT** = CellarTracker community score (out of 100). **NV** = non-vintage.
 
-## Current cellar (22 bottles)
+## Current cellar (21 bottles)
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -17,8 +17,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$100 |  | 92.3  |
 | 2022 | Dominique Cornin Pouilly-Fuissé | Dominique Cornin | White | Chardonnay | Burgundy | 2025-2029 | Drink now | S$51 |  | 88.5  |
 | 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$30 |  | 89.7  |
-| 2023 | Famille Grossot Chablis | Famille Grossot | White | Chardonnay | Burgundy | 2026-2029 | Drink now | S$55 |  | 91.3  |
-| 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2039 | Drink now | S$73 |  | 92.2  |
+| 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2039 | Drink now | S$71 |  | 92.2  |
 | 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$51 |  | 92 JG 94 |
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$50 |  | 90.5  |
@@ -55,5 +54,5 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 9 | Ca' Marcanda (Gaja) Promis Toscana IGT | 2022 | SuperTuscan Blend | 2026-06-14 |
 | 9 | Felton Road Pinot Noir Bannockburn | 2022 | Pinot Noir | 2026-05-24 |
 | 9 | Gosset Champagne Brut 12 Ans de Cave à minima | NV | Champagne Blend | 2025-12-31 |
+| 8.8 | Famille Grossot Chablis | 2023 | Chardonnay | 2026-10-20 |
 | 8.8 | Jean-Marie Fourrier Bourgogne | 2021 | Pinot Noir | 2026-08-23 |
-| 8.5 | Hans Greyl Sauvignon Blanc Marlborough | 2024 | Sauvignon Blanc | 2026-05-27 |
