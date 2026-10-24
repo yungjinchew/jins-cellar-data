@@ -1,6 +1,6 @@
-# Jin's Wine Cellar — snapshot 2026-10-23
+# Jin's Wine Cellar — snapshot 2026-10-24
 
-_Auto-exported from CellarTracker via Supabase, refreshed daily. 21 bottles, S$1,586 total (15 red, 4 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed daily. 21 bottles, S$1,584 total (15 red, 4 white, 2 sparkling)._
 
 _Inventory last changed 2026-10-21. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
@@ -11,14 +11,14 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$251 |  | 92.7  |
-| 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
+| 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$67 |  | 90.5  |
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$71 |  | 91.4  |
 | 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$165 |  | 93.7  |
 | 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$98 |  | 92.3  |
 | 2022 | Dominique Cornin Pouilly-Fuissé | Dominique Cornin | White | Chardonnay | Burgundy | 2025-2029 | Drink now | S$51 |  | 88.5  |
 | 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$30 |  | 89.7  |
 | 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2039 | Drink now | S$70 |  | 92.2  |
-| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$52 |  | 92 JG 94 |
+| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$53 |  | 92 JG 94 |
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$50 |  | 90.5  |
 | 2018 | Paul Jaboulet Aîné Crozes-Hermitage Domaine de Thalabert | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2022-2032 | Drink now | S$42 |  | 90  |
@@ -30,7 +30,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2022 | Dr. Loosen Ürziger Würzgarten Riesling Großes Gewächs Alte Reben Reserve | Dr. Loosen | White | Riesling | Mosel Saar Ruwer | 2030-2044 | Hold | S$87 |  |   |
 | 2020 | Negretti Barolo | Negretti | Red | Nebbiolo | Piedmont | 2027-2038 | Hold | S$68 |  | 88  |
 | 2021 | Paul Jaboulet Aîné Côte-Rôtie Les Jumelles | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2030-2041 | Hold | S$98 |  |   |
-| NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2030-2065 | Hold | S$90 |  | 90.6 JG 93+ |
+| NV | Taittinger Prelude | Taittinger | White | Champagne Blend | Champagne | 2030-2065 | Hold | S$89 |  | 90.6 JG 93+ |
 
 ## Recently tasted, top rated (Jin's /10)
 
