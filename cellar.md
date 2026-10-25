@@ -1,6 +1,6 @@
-# Jin's Wine Cellar — snapshot 2026-10-24
+# Jin's Wine Cellar — snapshot 2026-10-25
 
-_Auto-exported from CellarTracker via Supabase, refreshed daily. 21 bottles, S$1,584 total (15 red, 4 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed daily. 21 bottles, S$1,582 total (15 red, 4 white, 2 sparkling)._
 
 _Inventory last changed 2026-10-21. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
@@ -18,7 +18,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2022 | Dominique Cornin Pouilly-Fuissé | Dominique Cornin | White | Chardonnay | Burgundy | 2025-2029 | Drink now | S$51 |  | 88.5  |
 | 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$30 |  | 89.7  |
 | 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2039 | Drink now | S$70 |  | 92.2  |
-| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$53 |  | 92 JG 94 |
+| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$52 |  | 92 JG 94 |
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$50 |  | 90.5  |
 | 2018 | Paul Jaboulet Aîné Crozes-Hermitage Domaine de Thalabert | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2022-2032 | Drink now | S$42 |  | 90  |
