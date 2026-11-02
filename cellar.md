@@ -1,12 +1,12 @@
-# Jin's Wine Cellar — snapshot 2026-11-01
+# Jin's Wine Cellar — snapshot 2026-11-02
 
-_Auto-exported from CellarTracker via Supabase, refreshed daily. 21 bottles, S$1,581 total (15 red, 4 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed daily. 20 bottles, S$1,510 total (14 red, 4 white, 2 sparkling)._
 
-_Inventory last changed 2026-10-21. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
+_Inventory last changed 2026-11-02. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
 Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current year). **My /10** = Jin's personal score. **CT** = CellarTracker community score (out of 100). **NV** = non-vintage.
 
-## Current cellar (21 bottles)
+## Current cellar (20 bottles)
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -14,15 +14,14 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$67 |  | 90.5  |
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$71 |  | 91.4  |
 | 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$168 |  | 93.7  |
-| 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$98 |  | 92.3  |
+| 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2026-2039 | Drink now | S$98 |  | 92.3  |
 | 2022 | Dominique Cornin Pouilly-Fuissé | Dominique Cornin | White | Chardonnay | Burgundy | 2025-2029 | Drink now | S$51 |  | 88.5  |
 | 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$30 |  | 89.7  |
-| 2019 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | Il Poggione (Proprietá Franceschi) | Red | Sangiovese | Tuscany | 2026-2039 | Drink now | S$70 |  | 92.2  |
 | 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$51 |  | 92 JG 94 |
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$50 |  | 90.5  |
 | 2018 | Paul Jaboulet Aîné Crozes-Hermitage Domaine de Thalabert | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2022-2032 | Drink now | S$42 |  | 90  |
-| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$79 |  | 90.1 JG 92 |
+| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$78 |  | 90.1 JG 92 |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$45 |  |   |
 | 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$60 |  | 92.1  |
 | 2022 | Domaine Jean Chauvenet Nuits-Saint-Georges Vieilles Vignes | Domaine Jean Chauvenet | Red | Pinot Noir | Burgundy | 2027-2035 | Hold | S$83 |  |   |
@@ -38,6 +37,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 |---|---|---|---|---|
 | 9.8 | Château Léoville Barton | 2004 | Red Bordeaux Blend | 2026-07-13 |
 | 9.8 | Château Léoville Barton | 2004 | Red Bordeaux Blend | 2026-07-13 |
+| 9.5 | Il Poggione (Proprietá Franceschi) Brunello di Montalcino | 2019 | Sangiovese | 2026-11-01 |
 | 9.5 | Burn Cottage Pinot Noir Moonlight Race | 2022 | Pinot Noir | 2026-10-12 |
 | 9.5 | Domaine du Vieux Télégraphe Châteauneuf-du-Pape Télégramme | 2022 | Red Rhone Blend | 2026-09-27 |
 | 9.5 | Clos des Papes Châteauneuf-du-Pape | 2018 | Red Rhone Blend | 2026-05-25 |
@@ -55,4 +55,3 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 9 | Felton Road Pinot Noir Bannockburn | 2022 | Pinot Noir | 2026-05-24 |
 | 9 | Gosset Champagne Brut 12 Ans de Cave à minima | NV | Champagne Blend | 2025-12-31 |
 | 8.8 | Famille Grossot Chablis | 2023 | Chardonnay | 2026-10-20 |
-| 8.8 | Jean-Marie Fourrier Bourgogne | 2021 | Pinot Noir | 2026-08-23 |
