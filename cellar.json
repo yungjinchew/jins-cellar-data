@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-02T08:36:13.066Z",
+  "generated_at": "2026-11-03T08:48:24.727Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-11-02T08:36:07.91+00:00",
-  "last_inventory_change": "2026-11-02",
+  "refresh_ran_at": "2026-11-03T08:48:18.525+00:00",
+  "last_inventory_change": "2026-11-03",
   "summary": {
-    "bottles": 20,
-    "total_value_sgd": 1510,
+    "bottles": 19,
+    "total_value_sgd": 1460,
     "reds": 14,
-    "whites": 4,
+    "whites": 3,
     "sparkling": 2
   },
   "cellar": [
@@ -104,25 +104,6 @@
       "status": "drink-now",
       "my_rating_10": null,
       "community_score_100": 92.3,
-      "critics": {}
-    },
-    {
-      "iwine": "4882252",
-      "vintage": 2022,
-      "wine": "Dominique Cornin Pouilly-Fuissé",
-      "producer": "Dominique Cornin",
-      "color": "White",
-      "category": "Dry",
-      "varietal": "Chardonnay",
-      "region": "Burgundy",
-      "country": "France",
-      "quantity": 1,
-      "value_sgd": 50.7736,
-      "drink_from": 2025,
-      "drink_to": 2029,
-      "status": "drink-now",
-      "my_rating_10": null,
-      "community_score_100": 88.5,
       "critics": {}
     },
     {
@@ -233,7 +214,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 78.4414,
+      "value_sgd": 80.2101,
       "drink_from": 2024,
       "drink_to": 2040,
       "status": "drink-now",
@@ -390,7 +371,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 87.0205,
+      "value_sgd": 86.6933,
       "drink_from": 2030,
       "drink_to": 2065,
       "status": "hold",
@@ -509,6 +490,15 @@
       "varietal": "Pinot Noir",
       "date": "2025-11-06",
       "my_rating_10": 9.2,
+      "rated": true
+    },
+    {
+      "wine": "Dominique Cornin Pouilly-Fuissé",
+      "vintage": 2022,
+      "color": "White",
+      "varietal": "Chardonnay",
+      "date": "2026-11-02",
+      "my_rating_10": 9,
       "rated": true
     },
     {

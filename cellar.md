@@ -1,12 +1,12 @@
-# Jin's Wine Cellar — snapshot 2026-11-02
+# Jin's Wine Cellar — snapshot 2026-11-03
 
-_Auto-exported from CellarTracker via Supabase, refreshed daily. 20 bottles, S$1,510 total (14 red, 4 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed daily. 19 bottles, S$1,460 total (14 red, 3 white, 2 sparkling)._
 
-_Inventory last changed 2026-11-02. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
+_Inventory last changed 2026-11-03. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
 Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current year). **My /10** = Jin's personal score. **CT** = CellarTracker community score (out of 100). **NV** = non-vintage.
 
-## Current cellar (20 bottles)
+## Current cellar (19 bottles)
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -15,13 +15,12 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$71 |  | 91.4  |
 | 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$168 |  | 93.7  |
 | 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2026-2039 | Drink now | S$98 |  | 92.3  |
-| 2022 | Dominique Cornin Pouilly-Fuissé | Dominique Cornin | White | Chardonnay | Burgundy | 2025-2029 | Drink now | S$51 |  | 88.5  |
 | 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$30 |  | 89.7  |
 | 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$51 |  | 92 JG 94 |
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$50 |  | 90.5  |
 | 2018 | Paul Jaboulet Aîné Crozes-Hermitage Domaine de Thalabert | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2022-2032 | Drink now | S$42 |  | 90  |
-| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$78 |  | 90.1 JG 92 |
+| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$80 |  | 90.1 JG 92 |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$45 |  |   |
 | 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$60 |  | 92.1  |
 | 2022 | Domaine Jean Chauvenet Nuits-Saint-Georges Vieilles Vignes | Domaine Jean Chauvenet | Red | Pinot Noir | Burgundy | 2027-2035 | Hold | S$83 |  |   |
@@ -47,6 +46,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 9.2 | Château Giscours | 2016 | Red Bordeaux Blend | 2026-02-01 |
 | 9.2 | Château Palmer Alter Ego | 2020 | Red Bordeaux Blend | 2025-12-31 |
 | 9.2 | Burn Cottage Pinot Noir Moonlight Race | 2020 | Pinot Noir | 2025-11-06 |
+| 9 | Dominique Cornin Pouilly-Fuissé | 2022 | Chardonnay | 2026-11-02 |
 | 9 | Alheit Vineyards Hereafter Here | 2022 | Chenin Blanc | 2026-09-14 |
 | 9 | Château Mont-Redon Châteauneuf-du-Pape | 2021 | Red Rhone Blend | 2026-08-30 |
 | 9 | Leeuwin Estate Chardonnay Art Series | 2021 | Chardonnay | 2026-07-06 |
@@ -54,4 +54,3 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 9 | Ca' Marcanda (Gaja) Promis Toscana IGT | 2022 | SuperTuscan Blend | 2026-06-14 |
 | 9 | Felton Road Pinot Noir Bannockburn | 2022 | Pinot Noir | 2026-05-24 |
 | 9 | Gosset Champagne Brut 12 Ans de Cave à minima | NV | Champagne Blend | 2025-12-31 |
-| 8.8 | Famille Grossot Chablis | 2023 | Chardonnay | 2026-10-20 |
