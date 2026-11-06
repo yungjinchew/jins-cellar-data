@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T08:42:15.116Z",
+  "generated_at": "2026-11-06T08:43:54.496Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-11-05T08:42:08.48+00:00",
+  "refresh_ran_at": "2026-11-06T08:43:47.666+00:00",
   "last_inventory_change": "2026-11-03",
   "summary": {
     "bottles": 19,
@@ -195,7 +195,7 @@
       "region": "Rhône",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 42.0734,
+      "value_sgd": 43.389,
       "drink_from": 2022,
       "drink_to": 2032,
       "status": "drink-now",
@@ -214,7 +214,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 76.0799,
+      "value_sgd": 74.7879,
       "drink_from": 2024,
       "drink_to": 2040,
       "status": "drink-now",
