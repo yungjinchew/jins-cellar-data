@@ -1,6 +1,6 @@
-# Jin's Wine Cellar — snapshot 2026-11-06
+# Jin's Wine Cellar — snapshot 2026-11-07
 
-_Auto-exported from CellarTracker via Supabase, refreshed daily. 19 bottles, S$1,456 total (14 red, 3 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed daily. 19 bottles, S$1,455 total (14 red, 3 white, 2 sparkling)._
 
 _Inventory last changed 2026-11-03. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
@@ -12,11 +12,11 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 |---|---|---|---|---|---|---|---|---|---|---|
 | 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$251 |  | 92.7  |
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$67 |  | 90.5  |
-| 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$71 |  | 91.4  |
+| 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$69 |  | 91.4  |
 | 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$168 |  | 93.7  |
 | 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2026-2039 | Drink now | S$98 |  | 92.3  |
-| 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$30 |  | 89.7  |
-| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$51 |  | 92 JG 94 |
+| 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$29 |  | 89.7  |
+| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$52 |  | 92 JG 94 |
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | 2023 | Marcel Lapierre Morgon | Marcel Lapierre | Red | Gamay | Burgundy | 2025-2030 | Drink now | S$50 |  | 90.5  |
 | 2018 | Paul Jaboulet Aîné Crozes-Hermitage Domaine de Thalabert | Paul Jaboulet Aîné | Red | Syrah | Rhône | 2022-2032 | Drink now | S$43 |  | 90  |
