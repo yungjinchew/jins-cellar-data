@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T08:53:36.831Z",
+  "generated_at": "2026-11-14T08:17:06.645Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-11-13T08:53:30.254+00:00",
+  "refresh_ran_at": "2026-11-14T08:16:59.575+00:00",
   "last_inventory_change": "2026-11-11",
   "summary": {
     "bottles": 17,
-    "total_value_sgd": 1375,
+    "total_value_sgd": 1373,
     "reds": 12,
     "whites": 3,
     "sparkling": 2
@@ -79,7 +79,7 @@
       "region": "Rapel Valley",
       "country": "Chile",
       "quantity": 1,
-      "value_sgd": 168.7216,
+      "value_sgd": 168.8554,
       "drink_from": 2021,
       "drink_to": 2031,
       "status": "drink-now",
@@ -136,12 +136,12 @@
       "region": "La Rioja",
       "country": "Spain",
       "quantity": 1,
-      "value_sgd": 50.3485,
+      "value_sgd": 49.815,
       "drink_from": 2025,
       "drink_to": 2037,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 92,
+      "community_score_100": 91.9,
       "critics": {
         "JG": "94"
       }
@@ -176,7 +176,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 80.3452,
+      "value_sgd": 79.0947,
       "drink_from": 2024,
       "drink_to": 2040,
       "status": "drink-now",
@@ -644,19 +644,19 @@
       "rated": false
     },
     {
-      "wine": "Hamilton Russell Vineyards Pinot Noir",
-      "vintage": 2023,
-      "color": "Red",
-      "varietal": "Pinot Noir",
+      "wine": "Caves d'Esclans Whispering Angel",
+      "vintage": 2024,
+      "color": "Rosé",
+      "varietal": "Rosé Blend",
       "date": "2025-12-31",
       "my_rating_10": null,
       "rated": false
     },
     {
-      "wine": "Caves d'Esclans Whispering Angel",
-      "vintage": 2024,
-      "color": "Rosé",
-      "varietal": "Rosé Blend",
+      "wine": "Hamilton Russell Vineyards Pinot Noir",
+      "vintage": 2023,
+      "color": "Red",
+      "varietal": "Pinot Noir",
       "date": "2025-12-31",
       "my_rating_10": null,
       "rated": false
@@ -689,19 +689,19 @@
       "rated": false
     },
     {
-      "wine": "Alheit Vineyards Cartology Bushvines",
-      "vintage": 2022,
-      "color": "White",
-      "varietal": "Chenin Blanc",
+      "wine": "Marqués de Murrieta Rioja",
+      "vintage": 2020,
+      "color": "Red",
+      "varietal": "Tempranillo Blend",
       "date": "2025-10-17",
       "my_rating_10": null,
       "rated": false
     },
     {
-      "wine": "Marqués de Murrieta Rioja",
-      "vintage": 2020,
-      "color": "Red",
-      "varietal": "Tempranillo Blend",
+      "wine": "Alheit Vineyards Cartology Bushvines",
+      "vintage": 2022,
+      "color": "White",
+      "varietal": "Chenin Blanc",
       "date": "2025-10-17",
       "my_rating_10": null,
       "rated": false
