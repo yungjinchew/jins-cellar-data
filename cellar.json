@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-15T08:36:36.336Z",
+  "generated_at": "2026-11-16T08:45:29.154Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-11-15T08:36:29.614+00:00",
+  "refresh_ran_at": "2026-11-16T08:45:23.569+00:00",
   "last_inventory_change": "2026-11-11",
   "summary": {
     "bottles": 17,
-    "total_value_sgd": 1373,
+    "total_value_sgd": 1376,
     "reds": 12,
     "whites": 3,
     "sparkling": 2
@@ -98,7 +98,7 @@
       "region": "Castilla y León",
       "country": "Spain",
       "quantity": 1,
-      "value_sgd": 103.2513,
+      "value_sgd": 104.6448,
       "drink_from": 2025,
       "drink_to": 2038,
       "status": "drink-now",
@@ -122,7 +122,7 @@
       "drink_to": 2029,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 89.7,
+      "community_score_100": 89.8,
       "critics": {}
     },
     {
@@ -176,7 +176,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 78.9965,
+      "value_sgd": 81.0008,
       "drink_from": 2024,
       "drink_to": 2040,
       "status": "drink-now",
