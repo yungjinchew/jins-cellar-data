@@ -1,6 +1,6 @@
-# Jin's Wine Cellar — snapshot 2026-11-16
+# Jin's Wine Cellar — snapshot 2026-11-17
 
-_Auto-exported from CellarTracker via Supabase, refreshed daily. 17 bottles, S$1,376 total (12 red, 3 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed daily. 17 bottles, S$1,378 total (12 red, 3 white, 2 sparkling)._
 
 _Inventory last changed 2026-11-11. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
@@ -15,8 +15,8 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$69 |  | 91.4  |
 | 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$169 |  | 93.7  |
 | 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$105 |  | 92.2  |
-| 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$29 |  | 89.8  |
-| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$50 |  | 91.9 JG 94 |
+| 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$30 |  | 89.8  |
+| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$51 |  | 91.9 JG 94 |
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$81 |  | 90.1 JG 92 |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$45 |  |   |
