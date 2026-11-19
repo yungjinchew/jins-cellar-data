@@ -1,6 +1,6 @@
-# Jin's Wine Cellar — snapshot 2026-11-18
+# Jin's Wine Cellar — snapshot 2026-11-19
 
-_Auto-exported from CellarTracker via Supabase, refreshed daily. 17 bottles, S$1,377 total (12 red, 3 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed daily. 17 bottles, S$1,378 total (12 red, 3 white, 2 sparkling)._
 
 _Inventory last changed 2026-11-11. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
