@@ -1,4 +1,4 @@
-# Jin's Wine Cellar — snapshot 2026-11-19
+# Jin's Wine Cellar — snapshot 2026-11-20
 
 _Auto-exported from CellarTracker via Supabase, refreshed daily. 17 bottles, S$1,378 total (12 red, 3 white, 2 sparkling)._
 
@@ -10,7 +10,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$252 |  | 92.7  |
+| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$252 |  | 92.8  |
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$69 |  | 91.4  |
 | 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$169 |  | 93.7  |
