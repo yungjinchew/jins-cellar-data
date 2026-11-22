@@ -1,6 +1,6 @@
-# Jin's Wine Cellar — snapshot 2026-11-21
+# Jin's Wine Cellar — snapshot 2026-11-22
 
-_Auto-exported from CellarTracker via Supabase, refreshed daily. 19 bottles, S$1,501 total (13 red, 4 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed daily. 19 bottles, S$1,498 total (13 red, 4 white, 2 sparkling)._
 
 _Inventory last changed 2026-11-21. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
@@ -10,14 +10,14 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$252 |  | 92.8  |
+| 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$249 |  | 92.8  |
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$70 |  | 91.4  |
-| 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$169 |  | 93.7  |
+| 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$169 |  | 93.6  |
 | 2020 | Domaine de la Charbonnière Châteauneuf-du-Pape Cuvée Vieilles Vignes | Domaine de la Charbonnière | Red | Grenache Blend | Rhône | 2025-2034 | Drink now | S$87 |  | 92.8  |
 | 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$105 |  | 92.2  |
-| 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$30 |  | 89.8  |
-| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$52 |  | 91.9 JG 94 |
+| 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$29 |  | 89.8  |
+| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$53 |  | 91.9 JG 94 |
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | 2022 | Mount Horrocks Sémillon | Mount Horrocks | White | Sémillon | South Australia | 2025-2031 | Drink now | S$37 |  | 88.5  |
 | NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$78 |  | 90.1 JG 92 |

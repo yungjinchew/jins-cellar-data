@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-21T08:57:30.412Z",
+  "generated_at": "2026-11-22T09:00:29.081Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-11-21T08:57:24.253+00:00",
+  "refresh_ran_at": "2026-11-22T09:00:24.379+00:00",
   "last_inventory_change": "2026-11-21",
   "summary": {
     "bottles": 19,
-    "total_value_sgd": 1501,
+    "total_value_sgd": 1498,
     "reds": 13,
     "whites": 4,
     "sparkling": 2
@@ -22,7 +22,7 @@
       "region": "California",
       "country": "USA",
       "quantity": 1,
-      "value_sgd": 251.6017,
+      "value_sgd": 249.381,
       "drink_from": 2024,
       "drink_to": 2035,
       "status": "drink-now",
@@ -84,7 +84,7 @@
       "drink_to": 2031,
       "status": "drink-now",
       "my_rating_10": null,
-      "community_score_100": 93.7,
+      "community_score_100": 93.6,
       "critics": {}
     },
     {
@@ -136,7 +136,7 @@
       "region": "Mendoza",
       "country": "Argentina",
       "quantity": 1,
-      "value_sgd": 29.641,
+      "value_sgd": 28.9583,
       "drink_from": 2024,
       "drink_to": 2029,
       "status": "drink-now",
@@ -155,7 +155,7 @@
       "region": "La Rioja",
       "country": "Spain",
       "quantity": 1,
-      "value_sgd": 52.4544,
+      "value_sgd": 52.7347,
       "drink_from": 2025,
       "drink_to": 2037,
       "status": "drink-now",
@@ -214,7 +214,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 77.7885,
+      "value_sgd": 77.5149,
       "drink_from": 2024,
       "drink_to": 2040,
       "status": "drink-now",
@@ -727,19 +727,19 @@
       "rated": false
     },
     {
-      "wine": "Alheit Vineyards Cartology Bushvines",
-      "vintage": 2022,
-      "color": "White",
-      "varietal": "Chenin Blanc",
+      "wine": "Marqués de Murrieta Rioja",
+      "vintage": 2020,
+      "color": "Red",
+      "varietal": "Tempranillo Blend",
       "date": "2025-10-17",
       "my_rating_10": null,
       "rated": false
     },
     {
-      "wine": "Marqués de Murrieta Rioja",
-      "vintage": 2020,
-      "color": "Red",
-      "varietal": "Tempranillo Blend",
+      "wine": "Alheit Vineyards Cartology Bushvines",
+      "vintage": 2022,
+      "color": "White",
+      "varietal": "Chenin Blanc",
       "date": "2025-10-17",
       "my_rating_10": null,
       "rated": false
