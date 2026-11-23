@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-22T09:00:29.081Z",
+  "generated_at": "2026-11-23T09:58:25.275Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-11-22T09:00:24.379+00:00",
-  "last_inventory_change": "2026-11-21",
+  "refresh_ran_at": "2026-11-23T09:58:19.565+00:00",
+  "last_inventory_change": "2026-11-23",
   "summary": {
-    "bottles": 19,
-    "total_value_sgd": 1498,
+    "bottles": 18,
+    "total_value_sgd": 1465,
     "reds": 13,
-    "whites": 4,
+    "whites": 3,
     "sparkling": 2
   },
   "cellar": [
@@ -126,25 +126,6 @@
       "critics": {}
     },
     {
-      "iwine": "4843209",
-      "vintage": 2022,
-      "wine": "El Enemigo Chardonnay",
-      "producer": "El Enemigo",
-      "color": "White",
-      "category": "Dry",
-      "varietal": "Chardonnay",
-      "region": "Mendoza",
-      "country": "Argentina",
-      "quantity": 1,
-      "value_sgd": 28.9583,
-      "drink_from": 2024,
-      "drink_to": 2029,
-      "status": "drink-now",
-      "my_rating_10": null,
-      "community_score_100": 89.8,
-      "critics": {}
-    },
-    {
       "iwine": "4512275",
       "vintage": 2019,
       "wine": "La Rioja Alta Rioja Viña Ardanza Reserva",
@@ -155,7 +136,7 @@
       "region": "La Rioja",
       "country": "Spain",
       "quantity": 1,
-      "value_sgd": 52.7347,
+      "value_sgd": 51.7633,
       "drink_from": 2025,
       "drink_to": 2037,
       "status": "drink-now",
@@ -214,7 +195,7 @@
       "region": "Champagne",
       "country": "France",
       "quantity": 1,
-      "value_sgd": 77.5149,
+      "value_sgd": 74.6163,
       "drink_from": 2024,
       "drink_to": 2040,
       "status": "drink-now",
@@ -493,6 +474,15 @@
       "rated": true
     },
     {
+      "wine": "El Enemigo Chardonnay",
+      "vintage": 2022,
+      "color": "White",
+      "varietal": "Chardonnay",
+      "date": "2026-11-23",
+      "my_rating_10": 9,
+      "rated": true
+    },
+    {
       "wine": "Paul Jaboulet Aîné Crozes-Hermitage Domaine de Thalabert",
       "vintage": 2018,
       "color": "Red",
@@ -682,19 +672,19 @@
       "rated": false
     },
     {
-      "wine": "Hamilton Russell Vineyards Pinot Noir",
-      "vintage": 2023,
-      "color": "Red",
-      "varietal": "Pinot Noir",
+      "wine": "Caves d'Esclans Whispering Angel",
+      "vintage": 2024,
+      "color": "Rosé",
+      "varietal": "Rosé Blend",
       "date": "2025-12-31",
       "my_rating_10": null,
       "rated": false
     },
     {
-      "wine": "Caves d'Esclans Whispering Angel",
-      "vintage": 2024,
-      "color": "Rosé",
-      "varietal": "Rosé Blend",
+      "wine": "Hamilton Russell Vineyards Pinot Noir",
+      "vintage": 2023,
+      "color": "Red",
+      "varietal": "Pinot Noir",
       "date": "2025-12-31",
       "my_rating_10": null,
       "rated": false

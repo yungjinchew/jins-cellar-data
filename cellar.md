@@ -1,12 +1,12 @@
-# Jin's Wine Cellar — snapshot 2026-11-22
+# Jin's Wine Cellar — snapshot 2026-11-23
 
-_Auto-exported from CellarTracker via Supabase, refreshed daily. 19 bottles, S$1,498 total (13 red, 4 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed daily. 18 bottles, S$1,465 total (13 red, 3 white, 2 sparkling)._
 
-_Inventory last changed 2026-11-21. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
+_Inventory last changed 2026-11-23. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
 Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current year). **My /10** = Jin's personal score. **CT** = CellarTracker community score (out of 100). **NV** = non-vintage.
 
-## Current cellar (19 bottles)
+## Current cellar (18 bottles)
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -16,11 +16,10 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$169 |  | 93.6  |
 | 2020 | Domaine de la Charbonnière Châteauneuf-du-Pape Cuvée Vieilles Vignes | Domaine de la Charbonnière | Red | Grenache Blend | Rhône | 2025-2034 | Drink now | S$87 |  | 92.8  |
 | 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$105 |  | 92.2  |
-| 2022 | El Enemigo Chardonnay | El Enemigo | White | Chardonnay | Mendoza | 2024-2029 | Drink now | S$29 |  | 89.8  |
-| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$53 |  | 91.9 JG 94 |
+| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$52 |  | 91.9 JG 94 |
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | 2022 | Mount Horrocks Sémillon | Mount Horrocks | White | Sémillon | South Australia | 2025-2031 | Drink now | S$37 |  | 88.5  |
-| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$78 |  | 90.1 JG 92 |
+| NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$75 |  | 90.1 JG 92 |
 | 2020 | Castelli Martinozzi Brunello di Montalcino | Castelli Martinozzi | Red | Sangiovese | Tuscany | 2028-2036 | Hold | S$45 |  |   |
 | 2020 | Château Rouget | Château Rouget | Red | Red Bordeaux Blend | Bordeaux | 2027-2039 | Hold | S$60 |  | 92.1  |
 | 2022 | Domaine Jean Chauvenet Nuits-Saint-Georges Vieilles Vignes | Domaine Jean Chauvenet | Red | Pinot Noir | Burgundy | 2027-2035 | Hold | S$83 |  |   |
@@ -46,6 +45,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 9.2 | Château Giscours | 2016 | Red Bordeaux Blend | 2026-02-01 |
 | 9.2 | Château Palmer Alter Ego | 2020 | Red Bordeaux Blend | 2025-12-31 |
 | 9.2 | Burn Cottage Pinot Noir Moonlight Race | 2020 | Pinot Noir | 2025-11-06 |
+| 9 | El Enemigo Chardonnay | 2022 | Chardonnay | 2026-11-23 |
 | 9 | Paul Jaboulet Aîné Crozes-Hermitage Domaine de Thalabert | 2018 | Syrah | 2026-11-08 |
 | 9 | Dominique Cornin Pouilly-Fuissé | 2022 | Chardonnay | 2026-11-02 |
 | 9 | Alheit Vineyards Hereafter Here | 2022 | Chenin Blanc | 2026-09-14 |
@@ -53,4 +53,3 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 9 | Leeuwin Estate Chardonnay Art Series | 2021 | Chardonnay | 2026-07-06 |
 | 9 | Alheit Vineyards Cartology Bushvines | 2023 | Chenin Blanc | 2026-06-21 |
 | 9 | Ca' Marcanda (Gaja) Promis Toscana IGT | 2022 | SuperTuscan Blend | 2026-06-14 |
-| 9 | Felton Road Pinot Noir Bannockburn | 2022 | Pinot Noir | 2026-05-24 |
