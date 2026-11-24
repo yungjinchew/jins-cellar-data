@@ -1,22 +1,26 @@
-# Jin's Wine Cellar — snapshot 2026-11-23
+# Jin's Wine Cellar — snapshot 2026-11-24
 
-_Auto-exported from CellarTracker via Supabase, refreshed daily. 18 bottles, S$1,465 total (13 red, 3 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed daily. 22 bottles, S$1,916 total (17 red, 3 white, 2 sparkling)._
 
-_Inventory last changed 2026-11-23. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
+_Inventory last changed 2026-11-24. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
 Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current year). **My /10** = Jin's personal score. **CT** = CellarTracker community score (out of 100). **NV** = non-vintage.
 
-## Current cellar (18 bottles)
+## Current cellar (22 bottles)
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$249 |  | 92.8  |
+| 2017 | Château Montrose La Dame de Montrose | Château Montrose | Red | Red Bordeaux Blend | Bordeaux | 2023-2034 | Drink now | S$73 |  | 90  |
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
+| 2012 | Château Pichon-Longueville Baron | Château Pichon-Longueville Baron | Red | Red Bordeaux Blend | Bordeaux | 2020-2035 | Drink now | S$205 |  | 91.9 JG 86-89? |
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$70 |  | 91.4  |
 | 2015 | Clos Apalta | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2021-2031 | Drink now | S$169 |  | 93.6  |
 | 2020 | Domaine de la Charbonnière Châteauneuf-du-Pape Cuvée Vieilles Vignes | Domaine de la Charbonnière | Red | Grenache Blend | Rhône | 2025-2034 | Drink now | S$87 |  | 92.8  |
 | 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$105 |  | 92.2  |
+| 2019 | Fattoria Petrolo Galatrona | Fattoria Petrolo | Red | Merlot | Tuscany | 2025-2040 | Drink now | S$132 |  | 94.1  |
 | 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$52 |  | 91.9 JG 94 |
+| 2023 | Lethbridge Wines Pinot Noir | Lethbridge Wines | Red | Pinot Noir | Victoria | 2026-2030 | Drink now | S$41 |  | 89  |
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | 2022 | Mount Horrocks Sémillon | Mount Horrocks | White | Sémillon | South Australia | 2025-2031 | Drink now | S$37 |  | 88.5  |
 | NV | Pol Roger Champagne Brut Réserve | Pol Roger | White | Champagne Blend | Champagne | 2024-2040 | Drink now | S$75 |  | 90.1 JG 92 |
