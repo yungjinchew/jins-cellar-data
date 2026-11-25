@@ -1,12 +1,12 @@
-# Jin's Wine Cellar — snapshot 2026-11-24
+# Jin's Wine Cellar — snapshot 2026-11-25
 
-_Auto-exported from CellarTracker via Supabase, refreshed daily. 22 bottles, S$1,916 total (17 red, 3 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed daily. 21 bottles, S$1,865 total (16 red, 3 white, 2 sparkling)._
 
-_Inventory last changed 2026-11-24. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
+_Inventory last changed 2026-11-25. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
 Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current year). **My /10** = Jin's personal score. **CT** = CellarTracker community score (out of 100). **NV** = non-vintage.
 
-## Current cellar (22 bottles)
+## Current cellar (21 bottles)
 
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -19,7 +19,6 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 2020 | Domaine de la Charbonnière Châteauneuf-du-Pape Cuvée Vieilles Vignes | Domaine de la Charbonnière | Red | Grenache Blend | Rhône | 2025-2034 | Drink now | S$87 |  | 92.8  |
 | 2020 | Dominio del Aguila Ribera del Duero Reserva | Dominio del Aguila | Red | Tempranillo | Castilla y León | 2025-2038 | Drink now | S$105 |  | 92.2  |
 | 2019 | Fattoria Petrolo Galatrona | Fattoria Petrolo | Red | Merlot | Tuscany | 2025-2040 | Drink now | S$132 |  | 94.1  |
-| 2019 | La Rioja Alta Rioja Viña Ardanza Reserva | La Rioja Alta | Red | Tempranillo Blend | La Rioja | 2025-2037 | Drink now | S$52 |  | 91.9 JG 94 |
 | 2023 | Lethbridge Wines Pinot Noir | Lethbridge Wines | Red | Pinot Noir | Victoria | 2026-2030 | Drink now | S$41 |  | 89  |
 | 2021 | Luce Lucé Tentuna Luce | Luce | Red | Merlot | Tuscany | 2026-2046 | Drink now |  |  |   |
 | 2022 | Mount Horrocks Sémillon | Mount Horrocks | White | Sémillon | South Australia | 2025-2031 | Drink now | S$37 |  | 88.5  |
@@ -44,6 +43,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 9.5 | Domaine du Vieux Télégraphe Châteauneuf-du-Pape Télégramme | 2022 | Red Rhone Blend | 2026-09-27 |
 | 9.5 | Clos des Papes Châteauneuf-du-Pape | 2018 | Red Rhone Blend | 2026-05-25 |
 | 9.5 | Burn Cottage Pinot Noir Sauvage Vineyard | 2021 | Pinot Noir | 2026-05-03 |
+| 9.2 | La Rioja Alta Rioja Viña Ardanza Reserva | 2019 | Tempranillo Blend | 2026-11-25 |
 | 9.2 | Markus Molitor Haus Klosterberg Riesling (White Capsule) | 2022 | Riesling | 2026-04-13 |
 | 9.2 | Domaine Pattes Loup Chablis Vent d'Ange | 2022 | Chardonnay | 2026-03-15 |
 | 9.2 | Château Giscours | 2016 | Red Bordeaux Blend | 2026-02-01 |
@@ -56,4 +56,3 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | 9 | Château Mont-Redon Châteauneuf-du-Pape | 2021 | Red Rhone Blend | 2026-08-30 |
 | 9 | Leeuwin Estate Chardonnay Art Series | 2021 | Chardonnay | 2026-07-06 |
 | 9 | Alheit Vineyards Cartology Bushvines | 2023 | Chenin Blanc | 2026-06-21 |
-| 9 | Ca' Marcanda (Gaja) Promis Toscana IGT | 2022 | SuperTuscan Blend | 2026-06-14 |

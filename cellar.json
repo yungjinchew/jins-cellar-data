@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-24T11:46:57.352Z",
+  "generated_at": "2026-11-25T10:40:35.288Z",
   "source": "CellarTracker via Supabase",
-  "refresh_ran_at": "2026-11-24T11:46:52.188+00:00",
-  "last_inventory_change": "2026-11-24",
+  "refresh_ran_at": "2026-11-25T10:40:30.06+00:00",
+  "last_inventory_change": "2026-11-25",
   "summary": {
-    "bottles": 22,
-    "total_value_sgd": 1916,
-    "reds": 17,
+    "bottles": 21,
+    "total_value_sgd": 1865,
+    "reds": 16,
     "whites": 3,
     "sparkling": 2
   },
@@ -183,27 +183,6 @@
       "my_rating_10": null,
       "community_score_100": 94.1,
       "critics": {}
-    },
-    {
-      "iwine": "4512275",
-      "vintage": 2019,
-      "wine": "La Rioja Alta Rioja Viña Ardanza Reserva",
-      "producer": "La Rioja Alta",
-      "color": "Red",
-      "category": "Dry",
-      "varietal": "Tempranillo Blend",
-      "region": "La Rioja",
-      "country": "Spain",
-      "quantity": 1,
-      "value_sgd": 51.7633,
-      "drink_from": 2025,
-      "drink_to": 2037,
-      "status": "drink-now",
-      "my_rating_10": null,
-      "community_score_100": 91.9,
-      "critics": {
-        "JG": "94"
-      }
     },
     {
       "iwine": "5165187",
@@ -504,6 +483,15 @@
       "varietal": "Pinot Noir",
       "date": "2026-05-03",
       "my_rating_10": 9.5,
+      "rated": true
+    },
+    {
+      "wine": "La Rioja Alta Rioja Viña Ardanza Reserva",
+      "vintage": 2019,
+      "color": "Red",
+      "varietal": "Tempranillo Blend",
+      "date": "2026-11-25",
+      "my_rating_10": 9.2,
       "rated": true
     },
     {
