@@ -1,6 +1,6 @@
-# Jin's Wine Cellar — snapshot 2026-11-25
+# Jin's Wine Cellar — snapshot 2026-11-26
 
-_Auto-exported from CellarTracker via Supabase, refreshed daily. 21 bottles, S$1,865 total (16 red, 3 white, 2 sparkling)._
+_Auto-exported from CellarTracker via Supabase, refreshed daily. 21 bottles, S$1,864 total (16 red, 3 white, 2 sparkling)._
 
 _Inventory last changed 2026-11-25. A steady bottle count between daily refreshes is normal — it means the cellar hasn't changed since then, not that the sync is stale._
 
@@ -11,7 +11,7 @@ Legend: **Status** = Drink now / Hold / Past peak (drinking window vs current ye
 | Vintage | Wine | Producer | Colour | Varietal | Region | Window | Status | Value | My /10 | CT |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 2018 | Caymus Cabernet Sauvignon Special Selection | Caymus | Red | Cabernet Sauvignon | California | 2024-2035 | Drink now | S$249 |  | 92.8  |
-| 2017 | Château Montrose La Dame de Montrose | Château Montrose | Red | Red Bordeaux Blend | Bordeaux | 2023-2034 | Drink now | S$73 |  | 90  |
+| 2017 | Château Montrose La Dame de Montrose | Château Montrose | Red | Red Bordeaux Blend | Bordeaux | 2023-2034 | Drink now | S$72 |  | 90  |
 | 2018 | Château Moulin Riche | Château Moulin Riche | Red | Red Bordeaux Blend | Bordeaux | 2024-2032 | Drink now | S$69 |  | 90.5  |
 | 2012 | Château Pichon-Longueville Baron | Château Pichon-Longueville Baron | Red | Red Bordeaux Blend | Bordeaux | 2020-2035 | Drink now | S$205 |  | 91.9 JG 86-89? |
 | 2018 | Clos Apalta Le Petit Clos | Clos Apalta | Red | Red Bordeaux Blend | Rapel Valley | 2023-2032 | Drink now | S$70 |  | 91.4  |
